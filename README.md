@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @St4bl3
-- 👀 I’m interested in forensics, full stack development
-- 🌱 I’m currently learning cyber security forensics
-- 📫 How to reach me https://www.instagram.com/dhanushwastaken/
+Tech enthusiast passionate about coding, problem-solving, and project management, eager to learn new skills and gain experience in the tech industry. Committed to hard work, collaboration, and contributing to team success while growing as a tech professional.
