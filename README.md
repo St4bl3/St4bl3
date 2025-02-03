@@ -49,7 +49,7 @@
 
 ## 🕹️ GitHub Contribution Snake:
 
-![🐍 GitHub Contribution Snake](https://raw.githubusercontent.com/St4bl3/St4bl3/output/github-contribution-grid-snake.svg)
+![🐍 GitHub Contribution Snake](https://github.com/St4bl3/St4bl3/blob/output/github-contribution-grid-snake.svg)
 
 
 
