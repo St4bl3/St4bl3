@@ -7,3 +7,5 @@
 🎮 Gamer at heart | Strategic thinker & team player
 
 🚀 Eager to learn, grow, and make an impact in tech
+
+![Stabl3's GitHub stats](https://github-readme-stats.vercel.app/api?username=St4bl3&show_icons=true&theme=radical)
