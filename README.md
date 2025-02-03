@@ -43,7 +43,8 @@
   <a href="https://x.com/DhanushD230718"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="mailto:dhanush2004.work@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Dhanush,">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>  <a href="https://github.com/St4bl3"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</a> 
+  <a href="https://github.com/St4bl3"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 ---
