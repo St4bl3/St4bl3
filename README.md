@@ -47,19 +47,8 @@
   <a href="https://github.com/St4bl3"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
----
-
-## 🕹️ GitHub Contribution Snake:
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/St4bl3/St4bl3/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/St4bl3/St4bl3/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/St4bl3/St4bl3/output/github-snake.svg" />
 </picture>
-
-
----
-
-## 🔥 Fun Fact:
-
-> **"Code is like humor. When you have to explain it, it’s bad."** – Cory House
