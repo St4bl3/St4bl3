@@ -6,18 +6,20 @@ on:
   workflow_dispatch:
 
 jobs:
-  snake:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake Game 🐍
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation 🐍
         uses: Platane/snk@v3
         with:
           github_user_name: St4bl3
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push the Snake Animation 🚀
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Upload the Snake Animation as an Artifact
+        uses: actions/upload-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./dist
+          name: snake-animation
+          path: dist/github-contribution-grid-snake.svg
