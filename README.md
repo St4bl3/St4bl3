@@ -3,7 +3,7 @@
 👋 Hi, I'm Dhanush D!
 💻 Tech enthusiast | Problem solver | Project manager
 🎮 Gamer at heart | Strategic thinker & team player
-🚀 Eager to learn, grow, and make an impact in tech
+🚀 Eager to learn, grow, and make an impact in tech.
 
 
 <div align="center">
