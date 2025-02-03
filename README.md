@@ -49,13 +49,8 @@
 
 ## 🕹️ GitHub Contribution Snake:
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/St4bl3/St4bl3/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/St4bl3/St4bl3/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://github.com/St4bl3/St4bl3/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+![GitHub Snake](https://raw.githubusercontent.com/St4bl3/output/github-contribution-grid-snake.svg)
+
 
 ---
 
