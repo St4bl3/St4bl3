@@ -55,3 +55,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/St4bl3/St4bl3/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/St4bl3/St4bl3/output/github-snake.svg" />
 </picture>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=HareniMuthu&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</div>
+
