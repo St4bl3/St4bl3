@@ -49,7 +49,7 @@
 
 ## 🕹️ GitHub Contribution Snake:
 
-![snake gif](https://github.com/YOUR_USERNAME/St4bl3/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/St4bl3/St4bl3/blob/output/github-contribution-grid-snake.gif)
 
 
 
