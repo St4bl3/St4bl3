@@ -10,22 +10,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4  # Updated to latest version
 
       - name: Generate Snake Animation 🐍
         uses: Platane/snk@v3
         with:
-          github_user_name: St4bl3  # Change to your GitHub username
+          github_user_name: St4bl3  # Change to your actual GitHub username
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Commit and Push the Snake Animation 🐍
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          mkdir -p output
-          mv dist/github-contribution-grid-snake.svg output/github-contribution-grid-snake.svg
-          git add output/github-contribution-grid-snake.svg
-          git commit -m "Updated snake animation 🐍"
-          git push https://St4bl3:${{ secrets.GH_PAT }}@github.com/St4bl3/St4bl3.git output
+      - name: Upload the Snake Animation as an Artifact
+        uses: actions/upload-artifact@v4  # Fixed version
+        with:
+          name: snake-animation
+          path: dist/github-contribution-grid-snake.svg
