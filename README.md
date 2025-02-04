@@ -27,20 +27,6 @@
 
 ---
 
-## 🎨 Featured Projects:
-
-<div align="center">
-  <a href="https://github.com/St4bl3/pristine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=St4bl3&repo=pristine&theme=radical" />
-  </a>
-  <a href="https://github.com/St4bl3/WattWallet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=St4bl3&repo=WattWallet&theme=radical" />
-  </a>
-</div>
-
-
----
-
 ## 📫 Connect with Me:
 
 <div align="center">
@@ -53,13 +39,14 @@
 </div>
 
 ---
+
 ## 🎨 Featured Projects:
 
 <div align="center">
-  <a href="https://github.com/St4bl3/pristine.git">
+  <a href="https://github.com/St4bl3/pristine">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=St4bl3&repo=pristine&theme=radical" />
   </a>
-  <a href="https://github.com/St4bl3/WattWallet.git">
+  <a href="https://github.com/St4bl3/WattWallet">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=St4bl3&repo=WattWallet&theme=radical" />
   </a>
 </div>
