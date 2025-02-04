@@ -48,6 +48,18 @@
 </div>
 
 ---
+## 🎨 Featured Projects:
+
+<div align="center">
+  <a href="https://github.com/HareniMuthu/Project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=St4bl3&repo=pristine&theme=radical" />
+  </a>
+  <a href="https://github.com/HareniMuthu/Project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=St4bl3&repo=WattWallet&theme=radical" />
+  </a>
+</div>
+
+---
 
 ## 🕹️ GitHub Contribution Snake:
 <picture>
