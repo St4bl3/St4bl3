@@ -48,19 +48,6 @@
 
 ---
 
-## 🎨 Featured Projects:
-
-<div align="center">
-  <a href="https://github.com/St4bl3/pristine">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=St4bl3&&show_icons=true&theme=dark" />
-  </a>
-  <a href="https://github.com/St4bl3/WattWallet">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=St4bl3&&show_icons=true&theme=dark" />
-  </a>
-</div>
-
----
-
 ## 🕹️ GitHub Contribution Snake:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/St4bl3/St4bl3/output/github-snake-dark.svg" />
