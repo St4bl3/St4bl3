@@ -44,10 +44,10 @@
 
 <div align="center">
   <a href="https://github.com/St4bl3/pristine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=St4bl3&repo=pristine&theme=radical" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=St4bl3&&show_icons=true&theme=dark" />
   </a>
   <a href="https://github.com/St4bl3/WattWallet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=St4bl3&repo=WattWallet&theme=radical" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=St4bl3&&show_icons=true&theme=dark" />
   </a>
 </div>
 
