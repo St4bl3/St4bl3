@@ -27,12 +27,17 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 🎨 Featured Projects:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=St4bl3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=St4bl3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <a href="https://github.com/St4bl3/pristine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=St4bl3&repo=pristine&theme=radical" />
+  </a>
+  <a href="https://github.com/St4bl3/WattWallet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=St4bl3&repo=WattWallet&theme=radical" />
+  </a>
 </div>
+
 
 ---
 
