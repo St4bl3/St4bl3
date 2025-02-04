@@ -51,10 +51,10 @@
 ## 🎨 Featured Projects:
 
 <div align="center">
-  <a href="https://github.com/HareniMuthu/Project1">
+  <a href="https://github.com/St4bl3/pristine.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=St4bl3&repo=pristine&theme=radical" />
   </a>
-  <a href="https://github.com/HareniMuthu/Project2">
+  <a href="https://github.com/St4bl3/WattWallet.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=St4bl3&repo=WattWallet&theme=radical" />
   </a>
 </div>
