@@ -1,7 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="![banner (1)](https://github.com/user-attachments/assets/5d64278f-1d8c-4ef3-b01f-e207803c9ad4)
-" width="100%" alt="Banner">
+  <img src="https://github.com/user-attachments/assets/5d64278f-1d8c-4ef3-b01f-e207803c9ad4" width="100%" alt="Banner">
 </div>
 
 ---
