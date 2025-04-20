@@ -91,10 +91,23 @@ I'm immersed in gaming strategies or exploring the latest in tech.
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=St4bl3&layout=compact&theme=dracula" alt="Top Languages" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,nextjs,nodejs,flask,prisma,opencv,tensorflow,torch,mysql,mongodb,docker,kubernetes,vercel" alt="Tech Icons" />
+<!-- Languages & Frameworks -->
+<p><strong>Languages:</strong></p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css" alt="Languages" />
+
+<p><strong>Web & Backend:</strong></p>
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,flask,prisma" alt="Web & Backend" />
+
+<p><strong>AI & ML:</strong></p>
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow,torch" alt="AI & ML" />
+
+<p><strong>Databases:</strong></p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases" />
+
+<p><strong>DevOps & Tools:</strong></p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vercel" alt="DevOps & Tools" />
 </div>
+
 
 ---
 
