@@ -98,6 +98,6 @@ Feel free to reach out—I'm always open to discuss exciting projects or collabo
 ---
 
 <div align="center">
-  Made with ❤️ by <a href="https://github.com/St4bl3">Dhanush D</a> | © 2025
+  Made by <a href="https://github.com/St4bl3">Dhanush D</a> | © 2025
 </div>
 
