@@ -122,7 +122,7 @@ strategies, community events, and exploring the latest tech trends.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=St4bl3&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=St4bl3&theme=dracula" alt="Streak Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=St4bl3&theme=dracula" alt="Trophies" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=St4bl3&theme=dracula&column=4&rank=-UNKNOWN,-C" alt="Filtered Trophies" />
 </div>
 
 ---
