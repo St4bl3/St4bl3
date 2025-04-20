@@ -3,117 +3,125 @@
   <img src="https://github.com/user-attachments/assets/d001e5b6-575b-4506-a9d5-8b9b6547b735" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm <strong>Dhanush D</strong></h1>
-<p align="center"><em>💻 Tech Enthusiast | 🎮 Gamer | 🚀 Lifelong Learner</em></p>
+<h1 align="center">👋 Hey there, I'm <strong>Dhanush D</strong></h1>
+<p align="center"><em>💻 Tech Enthusiast & Innovator | 🎮 Gamer | 🚀 Lifelong Learner</em></p>
+
+<div align="center">
+  <a href="#about-me"><img src="https://img.shields.io/badge/About-👨‍💻-brightgreen" alt="About Me" /></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/Projects-📂-blue" alt="Projects" /></a>
+  <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech-🛠️-orange" alt="Tech Stack" /></a>
+  <a href="#connect-with-me"><img src="https://img.shields.io/badge/Connect-📫-red" alt="Connect" /></a>
+</div>
 
 ---
 
-<h2 align="center">🌟 About Me</h2>
+## 🌟 About Me
+<div align="center">
+  <img src="https://raw.githubusercontent.com/St4bl3/St4bl3/output/readme-header.svg" alt="waves" width="100%" />
+</div>
+
+<p align="justify">
+I'm <strong>Dhanush</strong>, a passionate developer who loves crafting<br />
+solutions that solve <strong>real-world challenges</strong>. When I'm not coding,<br />
+I'm immersed in gaming strategies or exploring the latest in tech.
+</p>
+
 <ul>
-  <li>🔭 Building solutions for <strong>real-world challenges</strong></li>
-  <li>🌱 Exploring <strong>innovative frameworks</strong>, <strong>tools</strong>, and <strong>ideas</strong></li>
-  <li>🤝 Passionate about <strong>open-source</strong> and <strong>community engagement</strong></li>
-  <li>🕹️ Avid gamer—with a focus on <strong>strategy</strong> and <strong>teamwork</strong></li>
+  <li>🔭 Building impactful projects in <strong>Blockchain</strong>, <strong>AI/ML</strong>, and <strong>Web Dev</strong>.</li>
+  <li>🌱 Continuously learning new frameworks, tools, and best practices.</li>
+  <li>🤝 Active contributor to open-source and tech communities.</li>
+  <li>💬 Always up for a chat about technology, games, or collaboration!</li>
 </ul>
 
 ---
 
-<h2 align="center">📂 Projects</h2>
+## 📂 Projects
 <div align="center">
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Link</th>
-  </tr>
-  <tr>
-    <td>WattWallet</td>
-    <td>Blockchain-based digital wallet for seamless micropayments</td>
-    <td><a href="https://github.com/St4bl3/WattWallet">Repo</a></td>
-  </tr>
-  <tr>
-    <td>Pristine</td>
-    <td>Lightweight static site generator & headless CMS</td>
-    <td><a href="https://github.com/St4bl3/pristine">Repo</a></td>
-  </tr>
-  <tr>
-    <td>ADMM VRP</td>
-    <td>Optimized vehicle routing using ADMM for efficient logistics</td>
-    <td><a href="https://github.com/St4bl3/supply_chain_logistics_using_ADMM_VRP">Repo</a></td>
-  </tr>
-  <tr>
-    <td>Smart Pill Box</td>
-    <td>AI-powered pillbox that recognizes dosages and sends reminders</td>
-    <td><a href="https://github.com/St4bl3/smart_pill_box_using_Deep_Learning">Repo</a></td>
-  </tr>
-</table>
-<p><em>Explore more on my <a href="https://github.com/St4bl3?tab=repositories">GitHub profile</a>.</em></p>
+  <table>
+    <tr>
+      <th align="left">Name</th>
+      <th align="left">Description</th>
+      <th align="center">Links & Badges</th>
+    </tr>
+    <tr>
+      <td><strong>WattWallet</strong></td>
+      <td>🔋 Blockchain-based micropayment wallet</td>
+      <td align="center">
+        <a href="https://github.com/St4bl3/WattWallet"><img src="https://img.shields.io/github/stars/St4bl3/WattWallet?style=social" alt="Stars" /></a>
+        <a href="https://github.com/St4bl3/WattWallet/actions"><img src="https://img.shields.io/github/actions/workflow/status/St4bl3/WattWallet/ci.yml?branch=main" alt="CI Status" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Pristine</strong></td>
+      <td>📄 Lightweight static site generator & headless CMS</td>
+      <td align="center">
+        <a href="https://github.com/St4bl3/pristine"><img src="https://img.shields.io/github/forks/St4bl3/pristine?style=social" alt="Forks" /></a>
+        <a href="https://github.com/St4bl3/pristine/releases"><img src="https://img.shields.io/github/v/release/St4bl3/pristine" alt="Release" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>ADMM VRP</strong></td>
+      <td>🚚 Optimized vehicle routing via ADMM algorithm</td>
+      <td align="center">
+        <a href="https://github.com/St4bl3/supply_chain_logistics_using_ADMM_VRP"><img src="https://img.shields.io/github/issues/St4bl3/supply_chain_logistics_using_ADMM_VRP" alt="Issues" /></a>
+        <a href="https://github.com/St4bl3/supply_chain_logistics_using_ADMM_VRP"><img src="https://img.shields.io/github/contributors/St4bl3/supply_chain_logistics_using_ADMM_VRP" alt="Contributors" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Smart Pill Box</strong></td>
+      <td>💊 AI-powered pillbox with dosage recognition & reminders</td>
+      <td align="center">
+        <a href="https://github.com/St4bl3/smart_pill_box_using_Deep_Learning"><img src="https://img.shields.io/github/languages/top/St4bl3/smart_pill_box_using_Deep_Learning" alt="Top Language" /></a>
+        <a href="https://github.com/St4bl3/smart_pill_box_using_Deep_Learning"><img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-blue" alt="TensorFlow" /></a>
+      </td>
+    </tr>
+  </table>
+  <p><em>Discover more on my <a href="https://github.com/St4bl3?tab=repositories">GitHub</a>! 🚀</em></p>
 </div>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 <div align="center">
-<!-- Languages & Frameworks -->
-<p><strong>Languages:</strong></p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css" alt="Languages" />
-
-<p><strong>Web & Backend:</strong></p>
-<img src="https://skillicons.dev/icons?i=nextjs,nodejs,flask,prisma" alt="Web & Backend" />
-
-<p><strong>AI & ML:</strong></p>
-<img src="https://skillicons.dev/icons?i=opencv,tensorflow,torch" alt="AI & ML" />
-
-<p><strong>Databases:</strong></p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases" />
-
-<p><strong>DevOps & Tools:</strong></p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vercel" alt="DevOps & Tools" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=St4bl3&layout=compact&theme=dracula" alt="Top Languages" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,nextjs,nodejs,flask,prisma,opencv,tensorflow,torch,mysql,mongodb,docker,kubernetes,vercel" alt="Tech Icons" />
 </div>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=St4bl3&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=St4bl3&theme=dracula" alt="Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=St4bl3&theme=dracula" alt="Trophies" />
+</div>
+
+---
+
+## 📫 Connect with Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=St4bl3&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="GitHub Stats" height="140" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=St4bl3&theme=dracula&hide_border=true" alt="Streak Stats" height="140" />
-  <img src="https://github-profile-trophy.vercel.app/?username=St4bl3&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Trophies" height="140" />
+  <a href="https://linkedin.com/in/dhanush2004work" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://x.com/DhanushD230718" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
+  <a href="mailto:dhanush2004.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" alt="Gmail" /></a>
+  <a href="https://github.com/St4bl3" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
 </p>
 
 ---
 
-<h2 align="center">📫 Connect with Me</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/dhanush2004work" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/DhanushD230718" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <a href="mailto:dhanush2004.work@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/St4bl3" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<h2 align="center">🕹️ Contribution Snake</h2>
-<p align="center">
+## 🐍 Contribution Snake & Visitors
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/St4bl3/St4bl3/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/St4bl3/St4bl3/output/github-snake.svg" alt="GitHub Snake" />
+    <img src="https://raw.githubusercontent.com/St4bl3/St4bl3/output/github-snake.svg" alt="Contribution Snake" />
   </picture>
-</p>
+  
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=St4bl3&label=Profile%20Views&color=blueviolet" alt="Profile Views" />
+</div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=St4bl3&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</div>
-
-<p align="center">Made with ❤️ by <strong>Dhanush D</strong> | © 2025</p>
+<p align="center">Made with ❤️ & <img src="https://img.shields.io/badge/Language-Markdown-green" alt="Markdown" /> by <strong>Dhanush D</strong> | © 2025</p>
 ```
 
