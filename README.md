@@ -19,11 +19,38 @@
 
 ---
 
-## 🛠️ Tech Stack:
+## 🛠️ Tech Stack
 
+### 👨‍💻 Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,ts,nextjs,latex,flask,mysql,mongodb,matlab,kubernetes,git,github,docker,matlab,ubuntu,kali,vercel" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,js,ts,html,css" />
 </div>
+
+### ⚙️ Frameworks & Libraries
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,flask,opencv,tensorflow,prisma" />
+</div>
+
+### 🗄️ Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</div>
+
+### 🔧 Tools & Platforms
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vercel" />
+</div>
+
+### 🧠 Other Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=raspberrypi,ros,latex,matlab" />
+</div>
+
+### 💻 Operating Systems
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ubuntu,kali" />
+</div>
+
 
 ---
 ## 📊 GitHub Stats:
