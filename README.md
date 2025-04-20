@@ -10,54 +10,60 @@
 
 ---
 
-## 🚀 About Me:
+## 🌟 **About Me**
 
-- 🎯 Passionate about solving real-world problems with technology.
-- 💡 Always eager to explore new tools, frameworks, and concepts.
-- 🎮 Gamer at heart, strategic thinker, and a true team player.
-- 🔥 Love collaborating and contributing to open-source projects.
+- 🔭 I'm passionate about using **technology** to tackle impactful **real-world challenges**.
+- 🌱 Constantly exploring **new frameworks**, **tools**, and **innovative ideas**.
+- 🕹️ Avid gamer who believes in the power of **teamwork** and **strategic thinking**.
+- 💬 Love engaging with communities, contributing to **open-source**, and sharing knowledge.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ **Tech Stack**
 
-### 👨‍💻 Programming Languages
+### 👩‍💻 **Languages**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css" />
 </div>
 
-### ⚙️ Frameworks & Libraries
+### 🌐 **Web Development & Backend**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,flask,opencv,tensorflow,prisma" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,flask,prisma" />
 </div>
 
-### 🗄️ Databases
+### 🤖 **AI & Machine Learning**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
+</div>
+
+### 📚 **Databases**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </div>
 
-### 🔧 Tools & Platforms
+### 🔧 **DevOps & Tools**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vercel" />
 </div>
 
-### 🧠 Other Technologies
+### 🧠 **Other Tech**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=raspberrypi,ros,latex,matlab" />
 </div>
 
-### 💻 Operating Systems
+### 🖥️ **Operating Systems**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ubuntu,kali,windows," />
+  <img src="https://skillicons.dev/icons?i=ubuntu,kali,windows" />
 </div>
 
 
 ---
-## 📊 GitHub Stats:
+## 📊 **My GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=St4bl3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=St4bl3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=St4bl3&show_icons=true&theme=dracula&count_private=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=St4bl3&theme=dracula&hide_border=true" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=St4bl3&theme=dracula&column=4&margin-w=15&margin-h=15" />
 </div>
 
 ---
