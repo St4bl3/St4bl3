@@ -126,6 +126,17 @@ strategies, community events, and exploring the latest tech trends.
 </div>
 
 ---
+## 🐍 **Trophies & Visitors**
+
+<div align="center">
+  <!-- Filtered trophies: only B-rank and above -->
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=St4bl3&theme=dracula&column=4&rank=-UNKNOWN,-C" alt="Filtered Trophies" />
+  <br /><br />
+  <!-- Profile view counter -->
+  <img src="https://komarev.com/ghpvc/?username=St4bl3&label=Profile%20Views&color=blueviolet" alt="Profile Views" />
+</div>
+
+---
 
 ## 📫 Connect with Me
 <p align="center">
