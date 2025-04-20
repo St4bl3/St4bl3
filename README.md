@@ -48,7 +48,7 @@
 
 ### 💻 Operating Systems
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ubuntu,kali" />
+  <img src="https://skillicons.dev/icons?i=ubuntu,kali,windows," />
 </div>
 
 
