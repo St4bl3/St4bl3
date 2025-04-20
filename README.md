@@ -150,6 +150,6 @@ strategies, community events, and exploring the latest tech trends.
 
 ---
 
-<p align="center">Made by <img src="https://img.shields.io/badge/Language-Markdown-green" alt="Markdown" /> by <strong>Dhanush D</strong> | © 2025</p>
+<p align="center">Made by <strong>Dhanush D</strong> | © 2025</p>
 ```
 
