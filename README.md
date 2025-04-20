@@ -16,22 +16,21 @@
 ---
 
 ## 🌟 About Me
-<div align="center">
-  <img src="https://raw.githubusercontent.com/St4bl3/St4bl3/output/readme-header.svg" alt="waves" width="100%" />
-</div>
 
 <p align="justify">
-I'm <strong>Dhanush</strong>, a passionate developer who loves crafting<br />
-solutions that solve <strong>real-world challenges</strong>. When I'm not coding,<br />
-I'm immersed in gaming strategies or exploring the latest in tech.
+I'm <strong>Dhanush</strong>, a developer passionate about crafting solutions<br/>
+for <strong>real-world challenges</strong>. Beyond coding, I dive into gaming<br/>
+strategies, community events, and exploring the latest tech trends.
 </p>
 
 <ul>
   <li>🔭 Building impactful projects in <strong>Blockchain</strong>, <strong>AI/ML</strong>, and <strong>Web Dev</strong>.</li>
-  <li>🌱 Continuously learning new frameworks, tools, and best practices.</li>
+  <li>🌱 Always learning new frameworks, tools, and best practices.</li>
   <li>🤝 Active contributor to open-source and tech communities.</li>
-  <li>💬 Always up for a chat about technology, games, or collaboration!</li>
+  <li>💬 Open to discussions on tech, gaming, or collaborations!</li>
 </ul>
+
+<p align="center">🌊🌊🌊</p>
 
 ---
 
@@ -65,7 +64,7 @@ I'm immersed in gaming strategies or exploring the latest in tech.
     </tr>
     <tr>
       <td><strong>ADMM VRP</strong></td>
-      <td>🚚 Vehicle routing optimization via ADMM</td>
+      <td>🚚 Vehicle routing optimization with ADMM algorithm</td>
       <td align="center">
         <a href="https://github.com/St4bl3/supply_chain_logistics_using_ADMM_VRP"><img src="https://img.shields.io/github/stars/St4bl3/supply_chain_logistics_using_ADMM_VRP?style=flat-square" alt="Stars" /></a>
         <a href="https://github.com/St4bl3/supply_chain_logistics_using_ADMM_VRP"><img src="https://img.shields.io/github/forks/St4bl3/supply_chain_logistics_using_ADMM_VRP?style=flat-square" alt="Forks" /></a>
@@ -91,23 +90,31 @@ I'm immersed in gaming strategies or exploring the latest in tech.
 
 ## 🛠️ Tech Stack
 <div align="center">
-<!-- Languages & Frameworks -->
-<p><strong>Languages:</strong></p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css" alt="Languages" />
-
-<p><strong>Web & Backend:</strong></p>
-<img src="https://skillicons.dev/icons?i=nextjs,nodejs,flask,prisma" alt="Web & Backend" />
-
-<p><strong>AI & ML:</strong></p>
-<img src="https://skillicons.dev/icons?i=opencv,tensorflow,torch" alt="AI & ML" />
-
-<p><strong>Databases:</strong></p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases" />
-
-<p><strong>DevOps & Tools:</strong></p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vercel" alt="DevOps & Tools" />
+  <table>
+    <tr>
+      <td align="center"><strong>Languages</strong><br/>
+        <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css" alt="Languages" />
+      </td>
+      <td align="center"><strong>Web & Backend</strong><br/>
+        <img src="https://skillicons.dev/icons?i=nextjs,nodejs,flask,prisma" alt="Web & Backend" />
+      </td>
+      <td align="center"><strong>AI & ML</strong><br/>
+        <img src="https://skillicons.dev/icons?i=opencv,tensorflow,torch" alt="AI & ML" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Databases</strong><br/>
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases" />
+      </td>
+      <td align="center"><strong>DevOps</strong><br/>
+        <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vercel" alt="DevOps" />
+      </td>
+      <td align="center"><strong>Other Tools</strong><br/>
+        <img src="https://skillicons.dev/icons?i=raspberrypi,ros,latex,matlab" alt="Other Tools" />
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 ---
 
