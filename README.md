@@ -22,7 +22,7 @@
 ## 🛠️ Tech Stack:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,ts,nextjs,latex,flask,mysql,mongodb,matlab,numpy,kubernetes,pandas,git,github,docker,matlab,ubuntu,kali,vercel" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,ts,nextjs,latex,flask,mysql,mongodb,matlab,kubernetes,git,github,docker,matlab,ubuntu,kali,vercel" />
 </div>
 
 ---
