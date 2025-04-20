@@ -41,38 +41,46 @@ I'm immersed in gaming strategies or exploring the latest in tech.
     <tr>
       <th align="left">Name</th>
       <th align="left">Description</th>
-      <th align="center">Links & Badges</th>
+      <th align="center">Badges</th>
     </tr>
     <tr>
       <td><strong>WattWallet</strong></td>
       <td>🔋 Blockchain-based micropayment wallet</td>
       <td align="center">
-        <a href="https://github.com/St4bl3/WattWallet"><img src="https://img.shields.io/github/stars/St4bl3/WattWallet?style=social" alt="Stars" /></a>
-        <a href="https://github.com/St4bl3/WattWallet/actions"><img src="https://img.shields.io/github/actions/workflow/status/St4bl3/WattWallet/ci.yml?branch=main" alt="CI Status" /></a>
+        <a href="https://github.com/St4bl3/WattWallet"><img src="https://img.shields.io/github/stars/St4bl3/WattWallet?style=flat-square" alt="Stars" /></a>
+        <a href="https://github.com/St4bl3/WattWallet"><img src="https://img.shields.io/github/forks/St4bl3/WattWallet?style=flat-square" alt="Forks" /></a>
+        <a href="https://github.com/St4bl3/WattWallet/issues"><img src="https://img.shields.io/github/issues/St4bl3/WattWallet?style=flat-square" alt="Issues" /></a>
+        <a href="https://github.com/St4bl3/WattWallet/commits/main"><img src="https://img.shields.io/github/last-commit/St4bl3/WattWallet?style=flat-square" alt="Last Commit" /></a>
       </td>
     </tr>
     <tr>
       <td><strong>Pristine</strong></td>
-      <td>📄 Lightweight static site generator & headless CMS</td>
+      <td>📄 Static site generator & headless CMS</td>
       <td align="center">
-        <a href="https://github.com/St4bl3/pristine"><img src="https://img.shields.io/github/forks/St4bl3/pristine?style=social" alt="Forks" /></a>
-        <a href="https://github.com/St4bl3/pristine/releases"><img src="https://img.shields.io/github/v/release/St4bl3/pristine" alt="Release" /></a>
+        <a href="https://github.com/St4bl3/pristine"><img src="https://img.shields.io/github/stars/St4bl3/pristine?style=flat-square" alt="Stars" /></a>
+        <a href="https://github.com/St4bl3/pristine"><img src="https://img.shields.io/github/forks/St4bl3/pristine?style=flat-square" alt="Forks" /></a>
+        <a href="https://github.com/St4bl3/pristine/issues"><img src="https://img.shields.io/github/issues/St4bl3/pristine?style=flat-square" alt="Issues" /></a>
+        <a href="https://github.com/St4bl3/pristine/commits/main"><img src="https://img.shields.io/github/last-commit/St4bl3/pristine?style=flat-square" alt="Last Commit" /></a>
       </td>
     </tr>
     <tr>
       <td><strong>ADMM VRP</strong></td>
-      <td>🚚 Optimized vehicle routing via ADMM algorithm</td>
+      <td>🚚 Vehicle routing optimization via ADMM</td>
       <td align="center">
-        <a href="https://github.com/St4bl3/supply_chain_logistics_using_ADMM_VRP"><img src="https://img.shields.io/github/issues/St4bl3/supply_chain_logistics_using_ADMM_VRP" alt="Issues" /></a>
-        <a href="https://github.com/St4bl3/supply_chain_logistics_using_ADMM_VRP"><img src="https://img.shields.io/github/contributors/St4bl3/supply_chain_logistics_using_ADMM_VRP" alt="Contributors" /></a>
+        <a href="https://github.com/St4bl3/supply_chain_logistics_using_ADMM_VRP"><img src="https://img.shields.io/github/stars/St4bl3/supply_chain_logistics_using_ADMM_VRP?style=flat-square" alt="Stars" /></a>
+        <a href="https://github.com/St4bl3/supply_chain_logistics_using_ADMM_VRP"><img src="https://img.shields.io/github/forks/St4bl3/supply_chain_logistics_using_ADMM_VRP?style=flat-square" alt="Forks" /></a>
+        <a href="https://github.com/St4bl3/supply_chain_logistics_using_ADMM_VRP/issues"><img src="https://img.shields.io/github/issues/St4bl3/supply_chain_logistics_using_ADMM_VRP?style=flat-square" alt="Issues" /></a>
+        <a href="https://github.com/St4bl3/supply_chain_logistics_using_ADMM_VRP/commits/main"><img src="https://img.shields.io/github/last-commit/St4bl3/supply_chain_logistics_using_ADMM_VRP?style=flat-square" alt="Last Commit" /></a>
       </td>
     </tr>
     <tr>
       <td><strong>Smart Pill Box</strong></td>
       <td>💊 AI-powered pillbox with dosage recognition & reminders</td>
       <td align="center">
-        <a href="https://github.com/St4bl3/smart_pill_box_using_Deep_Learning"><img src="https://img.shields.io/github/languages/top/St4bl3/smart_pill_box_using_Deep_Learning" alt="Top Language" /></a>
-        <a href="https://github.com/St4bl3/smart_pill_box_using_Deep_Learning"><img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-blue" alt="TensorFlow" /></a>
+        <a href="https://github.com/St4bl3/smart_pill_box_using_Deep_Learning"><img src="https://img.shields.io/github/stars/St4bl3/smart_pill_box_using_Deep_Learning?style=flat-square" alt="Stars" /></a>
+        <a href="https://github.com/St4bl3/smart_pill_box_using_Deep_Learning"><img src="https://img.shields.io/github/forks/St4bl3/smart_pill_box_using_Deep_Learning?style=flat-square" alt="Forks" /></a>
+        <a href="https://github.com/St4bl3/smart_pill_box_using_Deep_Learning/issues"><img src="https://img.shields.io/github/issues/St4bl3/smart_pill_box_using_Deep_Learning?style=flat-square" alt="Issues" /></a>
+        <a href="https://github.com/St4bl3/smart_pill_box_using_Deep_Learning/commits/main"><img src="https://img.shields.io/github/last-commit/St4bl3/smart_pill_box_using_Deep_Learning?style=flat-square" alt="Last Commit" /></a>
       </td>
     </tr>
   </table>
