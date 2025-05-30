@@ -18,9 +18,7 @@
 ## 🌟 About Me
 
 <p align="justify">
-I'm <strong>Dhanush</strong>, a developer passionate about crafting solutions<br/>
-for <strong>real-world challenges</strong>. Beyond coding, I dive into gaming<br/>
-strategies, community events, and exploring the latest tech trends.
+I'm <strong>Dhanush</strong>, a developer passionate about crafting solutions for <strong>real-world challenges</strong>. Beyond coding, I dive into gaming strategies, community events, and exploring the latest tech trends.
 </p>
 
 <ul>
