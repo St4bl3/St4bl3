@@ -1,4 +1,3 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d001e5b6-575b-4506-a9d5-8b9b6547b735" alt="Banner" width="100%" />
 </p>
@@ -18,7 +17,7 @@
 ## 🌟 About Me
 
 <p align="justify">
-I'm <strong>Dhanush</strong>, a developer passionate about crafting solutions for <strong>real-world challenges</strong>. Beyond coding, I dive into gaming strategies, community events, and exploring the latest tech trends.
+[cite_start]I'm <strong>Dhanush</strong>, a results-driven Computer Science student with a CGPA of 8.19 [cite: 6] [cite_start]and a passion for crafting solutions for <strong>real-world challenges</strong>[cite: 7]. [cite_start]I have hands-on experience in developing and deploying ML models, with skills in Deep Learning, Computer Vision, and Generative AI[cite: 6, 7]. Beyond coding, I dive into gaming strategies, community events, and exploring the latest tech trends.
 </p>
 
 <ul>
@@ -41,43 +40,37 @@ I'm <strong>Dhanush</strong>, a developer passionate about crafting solutions fo
       <th align="center">Badges</th>
     </tr>
     <tr>
-      <td><strong>WattWallet</strong></td>
-      <td>🔋 Blockchain-based micropayment wallet</td>
+      <td><strong>COSMOS: Coordinated Orbital System Management</strong></td>
+      <td>🛰️ Engineered an MLOps pipeline for satellite weather prediction using ConvNeXt-S & Swin-B. Features multi-channel forecasting and fine-tuned Faster R-CNN for space debris detection. [cite_start]Integrated post-quantum cryptography and NLP agents for secure, autonomous decision-making. [cite: 10]</td>
+      <td align="center">
+        <a href="https://github.com/St4bl3/COSMOS"><img src="https://img.shields.io/github/stars/St4bl3/COSMOS?style=flat-square" alt="Stars" /></a>
+        <a href="https://github.com/St4bl3/COSMOS"><img src="https://img.shields.io/github/forks/St4bl3/COSMOS?style=flat-square" alt="Forks" /></a>
+        <a href="https://github.com/St4bl3/COSMOS/issues"><img src="https://img.shields.io/github/issues/St4bl3/COSMOS?style=flat-square" alt="Issues" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Blockchain Energy Tokenization (WattWallet)</strong></td>
+      <td>⚡ Devised a P2P V2V energy-tokenization framework minting kWh tokens via smart contracts, underpinned by RNN-driven demand-supply forecasting. [cite_start]Integrated digital wallets and Byzantine-resilient consensus to improve utilization efficiency by ~25%. [cite: 10]</td>
       <td align="center">
         <a href="https://github.com/St4bl3/WattWallet"><img src="https://img.shields.io/github/stars/St4bl3/WattWallet?style=flat-square" alt="Stars" /></a>
         <a href="https://github.com/St4bl3/WattWallet"><img src="https://img.shields.io/github/forks/St4bl3/WattWallet?style=flat-square" alt="Forks" /></a>
         <a href="https://github.com/St4bl3/WattWallet/issues"><img src="https://img.shields.io/github/issues/St4bl3/WattWallet?style=flat-square" alt="Issues" /></a>
-        <a href="https://github.com/St4bl3/WattWallet/commits/main"><img src="https://img.shields.io/github/last-commit/St4bl3/WattWallet?style=flat-square" alt="Last Commit" /></a>
       </td>
     </tr>
     <tr>
-      <td><strong>Pristine</strong></td>
-      <td>📄 Static site generator & headless CMS</td>
-      <td align="center">
-        <a href="https://github.com/St4bl3/pristine"><img src="https://img.shields.io/github/stars/St4bl3/pristine?style=flat-square" alt="Stars" /></a>
-        <a href="https://github.com/St4bl3/pristine"><img src="https://img.shields.io/github/forks/St4bl3/pristine?style=flat-square" alt="Forks" /></a>
-        <a href="https://github.com/St4bl3/pristine/issues"><img src="https://img.shields.io/github/issues/St4bl3/pristine?style=flat-square" alt="Issues" /></a>
-        <a href="https://github.com/St4bl3/pristine/commits/main"><img src="https://img.shields.io/github/last-commit/St4bl3/pristine?style=flat-square" alt="Last Commit" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>ADMM VRP</strong></td>
-      <td>🚚 Vehicle routing optimization with ADMM algorithm</td>
+      <td><strong>Cloud-Native ADMM-VRP Optimization</strong></td>
+      <td>🚚 Built zero-trust microservices for vehicle routing using convex-relaxed ADMM with Pareto-optimized allocations. [cite_start]Deployed edge inference agents on a cloud-native stack (Kubernetes, Docker, AWS) to reduce orchestration latency by 30%. [cite: 10]</td>
       <td align="center">
         <a href="https://github.com/St4bl3/supply_chain_logistics_using_ADMM_VRP"><img src="https://img.shields.io/github/stars/St4bl3/supply_chain_logistics_using_ADMM_VRP?style=flat-square" alt="Stars" /></a>
         <a href="https://github.com/St4bl3/supply_chain_logistics_using_ADMM_VRP"><img src="https://img.shields.io/github/forks/St4bl3/supply_chain_logistics_using_ADMM_VRP?style=flat-square" alt="Forks" /></a>
-        <a href="https://github.com/St4bl3/supply_chain_logistics_using_ADMM_VRP/issues"><img src="https://img.shields.io/github/issues/St4bl3/supply_chain_logistics_using_ADMM_VRP?style=flat-square" alt="Issues" /></a>
-        <a href="https://github.com/St4bl3/supply_chain_logistics_using_ADMM_VRP/commits/main"><img src="https://img.shields.io/github/last-commit/St4bl3/supply_chain_logistics_using_ADMM_VRP?style=flat-square" alt="Last Commit" /></a>
       </td>
     </tr>
     <tr>
-      <td><strong>Smart Pill Box</strong></td>
-      <td>💊 AI-powered pillbox with dosage recognition & reminders</td>
-      <td align="center">
-        <a href="https://github.com/St4bl3/smart_pill_box_using_Deep_Learning"><img src="https://img.shields.io/github/stars/St4bl3/smart_pill_box_using_Deep_Learning?style=flat-square" alt="Stars" /></a>
-        <a href="https://github.com/St4bl3/smart_pill_box_using_Deep_Learning"><img src="https://img.shields.io/github/forks/St4bl3/smart_pill_box_using_Deep_Learning?style=flat-square" alt="Forks" /></a>
-        <a href="https://github.com/St4bl3/smart_pill_box_using_Deep_Learning/issues"><img src="https://img.shields.io/github/issues/St4bl3/smart_pill_box_using_Deep_Learning?style=flat-square" alt="Issues" /></a>
-        <a href="https://github.com/St4bl3/smart_pill_box_using_Deep_Learning/commits/main"><img src="https://img.shields.io/github/last-commit/St4bl3/smart_pill_box_using_Deep_Learning?style=flat-square" alt="Last Commit" /></a>
+      <td><strong>Spatio-Temporal Activity Recognition</strong></td>
+      <td>🏃 Built a real-time video classification pipeline capturing temporal dynamics with ResNet-18, BiLSTM, and transformer layers. [cite_start]Boosted F1 score by 12% on class-imbalanced benchmarks via optimized preprocessing and inference. [cite: 10]</td>
+       <td align="center">
+        <a href="https://github.com/St4bl3/Spatio-Temporal-Activity-Recognition"><img src="https://img.shields.io/github/stars/St4bl3/Spatio-Temporal-Activity-Recognition?style=flat-square" alt="Stars" /></a>
+        <a href="https://github.com/St4bl3/Spatio-Temporal-Activity-Recognition"><img src="https://img.shields.io/github/forks/St4bl3/Spatio-Temporal-Activity-Recognition?style=flat-square" alt="Forks" /></a>
       </td>
     </tr>
   </table>
@@ -94,21 +87,21 @@ I'm <strong>Dhanush</strong>, a developer passionate about crafting solutions fo
         <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css" alt="Languages" />
       </td>
       <td align="center"><strong>Web & Backend</strong><br/>
-        <img src="https://skillicons.dev/icons?i=nextjs,nodejs,flask,prisma" alt="Web & Backend" />
+        <img src="https://skillicons.dev/icons?i=nextjs,nodejs,flask,prisma,rest" alt="Web & Backend" />
       </td>
       <td align="center"><strong>AI & ML</strong><br/>
-        <img src="https://skillicons.dev/icons?i=opencv,tensorflow,torch" alt="AI & ML" />
+        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastai" alt="AI & ML" />
       </td>
     </tr>
     <tr>
       <td align="center"><strong>Databases</strong><br/>
         <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases" />
       </td>
-      <td align="center"><strong>DevOps</strong><br/>
-        <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vercel" alt="DevOps" />
+      <td align="center"><strong>DevOps & Cloud</strong><br/>
+        <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vercel,aws,gcp" alt="DevOps & Cloud" />
       </td>
-      <td align="center"><strong>Other Tools</strong><br/>
-        <img src="https://skillicons.dev/icons?i=raspberrypi,ros,latex,matlab" alt="Other Tools" />
+       <td align="center"><strong>Distributed Systems</strong><br/>
+        <img src="https://skillicons.dev/icons?i=hadoop,spark" alt="Other Tools" />
       </td>
     </tr>
   </table>
@@ -148,5 +141,3 @@ I'm <strong>Dhanush</strong>, a developer passionate about crafting solutions fo
 ---
 
 <p align="center">Made by <strong>Dhanush D</strong> | © 2025</p>
-```
-
