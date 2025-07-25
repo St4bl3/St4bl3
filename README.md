@@ -71,8 +71,7 @@
 <td width="50%" valign="top">
 <h3 align="center">COSMOS: Orbital System Management Suite</h3>
 <p align="center">
-  <a href="https://github.com/St4bl3/COSMOS-CV"><img src="<img width="1697" height="950" alt="image" src="https://github.com/user-attachments/assets/cabd511c-afd6-4978-a0ea-4e4587f8c907" />
-" alt="COSMOS Project" width="90%"/></a>
+  <a href="https://github.com/St4bl3/COSMOS-CV"><img src="<img width="1697" height="950" alt="image" src="https://github.com/user-attachments/assets/cabd511c-afd6-4978-a0ea-4e4587f8c907" />" alt="COSMOS Project" width="90%"/></a>
 </p>
 <p align="justify">
 An integrated suite for satellite operations featuring a multi-modal MLOps pipeline for weather forecasting (ConvNeXt-S, Swin-B) and space debris detection (Faster R-CNN). [cite_start]It incorporates <b>post-quantum cryptography</b> for secure communications and autonomous <b>NLP agents</b> for mission-critical decision-making. [cite: 10] The system is built on a distributed architecture using Apache Spark and Hadoop for scalable data processing.
