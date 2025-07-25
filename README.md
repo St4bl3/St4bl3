@@ -2,127 +2,227 @@
   <img src="https://github.com/user-attachments/assets/d001e5b6-575b-4506-a9d5-8b9b6547b735" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hey there, I'm <strong>Dhanush D</strong></h1>
-<p align="center"><em>💻 Tech Enthusiast & Innovator | 🎮 Gamer | 🚀 Lifelong Learner</em></p>
+<h1 align="center"><strong>Dhanush D</strong></h1>
+<p align="center">
+  <em>Architecting Scalable AI-Powered Solutions in Vision, Language, and Distributed Systems</em>
+</p>
 
 <div align="center">
-  <a href="#about-me"><img src="https://img.shields.io/badge/About-👨‍💻-brightgreen" alt="About Me" /></a>
-  <a href="#projects"><img src="https://img.shields.io/badge/Projects-📂-blue" alt="Projects" /></a>
-  <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech-🛠️-orange" alt="Tech Stack" /></a>
-  <a href="#connect-with-me"><img src="https://img.shields.io/badge/Connect-📫-red" alt="Connect" /></a>
+  <a href="#-about-me"><img src="https://img.shields.io/badge/About_Me-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="#-professional-experience"><img src="https://img.shields.io/badge/Experience-4A90E2?style=for-the-badge&logo=briefcase&logoColor=white" /></a>
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#-technical-skills"><img src="https://img.shields.io/badge/Skills-D9534F?style=for-the-badge&logo=dependabot&logoColor=white" /></a>
+  <a href="#-connect-with-me"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 ---
 
-## 🌟 About Me
+## 👨‍💻 About Me
 
 <p align="justify">
-[cite_start]I'm <strong>Dhanush</strong>, a results-driven Computer Science student with a CGPA of 8.19 [cite: 6] [cite_start]and a passion for crafting solutions for <strong>real-world challenges</strong>[cite: 7]. [cite_start]I have hands-on experience in developing and deploying ML models, with skills in Deep Learning, Computer Vision, and Generative AI[cite: 6, 7]. Beyond coding, I dive into gaming strategies, community events, and exploring the latest tech trends.
+[cite_start]I am a results-driven Computer Science student (<b>CGPA: 8.19</b>) with a proven track record of developing and deploying sophisticated machine learning models. [cite: 6] [cite_start]My expertise lies in architecting scalable solutions across <b>Deep Learning</b>, <b>Computer Vision</b>, and <b>Generative AI</b>. [cite: 7] I am passionate about tackling complex, real-world challenges by leveraging cutting-edge technology and distributed systems to build robust, efficient, and intelligent applications.
 </p>
 
 <ul>
-  <li>🔭 Building impactful projects in <strong>Blockchain</strong>, <strong>AI/ML</strong>, and <strong>Web Dev</strong>.</li>
-  <li>🌱 Always learning new frameworks, tools, and best practices.</li>
-  <li>🤝 Active contributor to open-source and tech communities.</li>
-  <li>💬 Open to discussions on tech, gaming, or collaborations!</li>
+  <li>🧠 Architecting end-to-end MLOps pipelines for high-stakes, data-intensive applications.</li>
+  <li>🔐 Integrating advanced cryptographic methods, including Post-Quantum Cryptography, into secure systems.</li>
+  <li>🚀 Exploring the confluence of Blockchain, Generative AI, and distributed computing to innovate new frameworks.</li>
+  <li>🤝 Open to collaborating on ambitious projects that push the boundaries of technology.</li>
 </ul>
 
-<p align="center">🌊🌊🌊</p>
+---
+
+## 💼 Professional Experience
+
+<table>
+  <tr>
+    <td valign="top" width="20%">
+      <strong>AI Intern</strong><br/>
+      <em>Panasonic</em><br/>
+      Bengaluru, India<br/>
+      Jun 2025 - Jul 2025
+    </td>
+    <td valign="top">
+      [cite_start]Developed a multi-modal AI pipeline leveraging a BLIP model for visual analysis and a <b>fine-tuned Mistral-7B LLM</b> with QLoRA for generating nuanced marketing captions. [cite: 10] [cite_start]Implemented a resource-efficient framework using 4-bit quantization and paged optimizers to deploy the 7-billion-parameter model in a constrained computational environment. [cite: 10]
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="20%">
+      <strong>AI Intern</strong><br/>
+      <em>Dassault Systèmes</em><br/>
+      Bengaluru, India<br/>
+      Jun 2024 - Jul 2024
+    </td>
+    <td valign="top">
+      [cite_start]Developed and deployed a complete end-to-end Python pipeline to automate the detection of plant diseases from images, achieving <b>95% accuracy</b>. [cite: 10] [cite_start]Gained deep insights into the corporate model development lifecycle, including agile practices, model validation, and rigorous testing protocols. [cite: 10]
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
+
 <div align="center">
-  <table>
-    <tr>
-      <th align="left">Name</th>
-      <th align="left">Description</th>
-      <th align="center">Badges</th>
-    </tr>
-    <tr>
-      <td><strong>COSMOS: Coordinated Orbital System Management</strong></td>
-      <td>🛰️ Engineered an MLOps pipeline for satellite weather prediction using ConvNeXt-S & Swin-B. Features multi-channel forecasting and fine-tuned Faster R-CNN for space debris detection. [cite_start]Integrated post-quantum cryptography and NLP agents for secure, autonomous decision-making. [cite: 10]</td>
-      <td align="center">
-        <a href="https://github.com/St4bl3/COSMOS"><img src="https://img.shields.io/github/stars/St4bl3/COSMOS?style=flat-square" alt="Stars" /></a>
-        <a href="https://github.com/St4bl3/COSMOS"><img src="https://img.shields.io/github/forks/St4bl3/COSMOS?style=flat-square" alt="Forks" /></a>
-        <a href="https://github.com/St4bl3/COSMOS/issues"><img src="https://img.shields.io/github/issues/St4bl3/COSMOS?style=flat-square" alt="Issues" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Blockchain Energy Tokenization (WattWallet)</strong></td>
-      <td>⚡ Devised a P2P V2V energy-tokenization framework minting kWh tokens via smart contracts, underpinned by RNN-driven demand-supply forecasting. [cite_start]Integrated digital wallets and Byzantine-resilient consensus to improve utilization efficiency by ~25%. [cite: 10]</td>
-      <td align="center">
-        <a href="https://github.com/St4bl3/WattWallet"><img src="https://img.shields.io/github/stars/St4bl3/WattWallet?style=flat-square" alt="Stars" /></a>
-        <a href="https://github.com/St4bl3/WattWallet"><img src="https://img.shields.io/github/forks/St4bl3/WattWallet?style=flat-square" alt="Forks" /></a>
-        <a href="https://github.com/St4bl3/WattWallet/issues"><img src="https://img.shields.io/github/issues/St4bl3/WattWallet?style=flat-square" alt="Issues" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Cloud-Native ADMM-VRP Optimization</strong></td>
-      <td>🚚 Built zero-trust microservices for vehicle routing using convex-relaxed ADMM with Pareto-optimized allocations. [cite_start]Deployed edge inference agents on a cloud-native stack (Kubernetes, Docker, AWS) to reduce orchestration latency by 30%. [cite: 10]</td>
-      <td align="center">
-        <a href="https://github.com/St4bl3/supply_chain_logistics_using_ADMM_VRP"><img src="https://img.shields.io/github/stars/St4bl3/supply_chain_logistics_using_ADMM_VRP?style=flat-square" alt="Stars" /></a>
-        <a href="https://github.com/St4bl3/supply_chain_logistics_using_ADMM_VRP"><img src="https://img.shields.io/github/forks/St4bl3/supply_chain_logistics_using_ADMM_VRP?style=flat-square" alt="Forks" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Spatio-Temporal Activity Recognition</strong></td>
-      <td>🏃 Built a real-time video classification pipeline capturing temporal dynamics with ResNet-18, BiLSTM, and transformer layers. [cite_start]Boosted F1 score by 12% on class-imbalanced benchmarks via optimized preprocessing and inference. [cite: 10]</td>
-       <td align="center">
-        <a href="https://github.com/St4bl3/Spatio-Temporal-Activity-Recognition"><img src="https://img.shields.io/github/stars/St4bl3/Spatio-Temporal-Activity-Recognition?style=flat-square" alt="Stars" /></a>
-        <a href="https://github.com/St4bl3/Spatio-Temporal-Activity-Recognition"><img src="https://img.shields.io/github/forks/St4bl3/Spatio-Temporal-Activity-Recognition?style=flat-square" alt="Forks" /></a>
-      </td>
-    </tr>
-  </table>
-  <p><em>Discover more on my <a href="https://github.com/St4bl3?tab=repositories">GitHub</a>! 🚀</em></p>
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+<h3 align="center">COSMOS: Orbital System Management Suite</h3>
+<p align="center">
+  <a href="https://github.com/St4bl3/COSMOS-CV"><img src="http://googleusercontent.com/file_content/0" alt="COSMOS Project" width="90%"/></a>
+</p>
+<p align="justify">
+An integrated suite for satellite operations featuring a multi-modal MLOps pipeline for weather forecasting (ConvNeXt-S, Swin-B) and space debris detection (Faster R-CNN). [cite_start]It incorporates <b>post-quantum cryptography</b> for secure communications and autonomous <b>NLP agents</b> for mission-critical decision-making. [cite: 10] The system is built on a distributed architecture using Apache Spark and Hadoop for scalable data processing.
+</p>
+<p align="center">
+  <b>Tech Stack:</b><br/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark"/>
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" alt="Hadoop"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+</p>
+<p align="center">
+  <a href="https://github.com/St4bl3/COSMOS-CV"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+</td>
+
+<td width="50%" valign="top">
+<h3 align="center">Blockchain Energy Tokenization (WattWallet)</h3>
+<p align="center">
+  <a href="https://github.com/St4bl3/WattWallet"><img src="https://github.com/user-attachments/assets/75968536-1e6a-4d37-af3a-733d9c73b06a" alt="WattWallet Project" width="90%"/></a>
+</p>
+<p align="justify">
+A P2P, vehicle-to-vehicle energy exchange framework that tokenizes kWh units using smart contracts. This system leverages <b>RNN-driven forecasting</b> for demand-supply prediction and integrates digital wallets with Byzantine-resilient consensus mechanisms. [cite_start]This architecture enables autonomous microgrid formation and boosts energy utilization efficiency by approximately <b>25%</b>. [cite: 10]
+</p>
+<p align="center">
+  <b>Tech Stack:</b><br/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+<p align="center">
+  <a href="https://github.com/St4bl3/WattWallet"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+<h3 align="center">Cloud-Native ADMM-VRP Optimization</h3>
+<p align="center">
+  <a href="https://github.com/St4bl3/supply_chain_logistics_using_ADMM_VRP"><img src="https://github.com/user-attachments/assets/6eb055c6-5120-410a-8646-991f865de019" alt="ADMM-VRP Project" width="90%"/></a>
+</p>
+<p align="justify">
+A cloud-native, zero-trust microservices architecture for optimizing vehicle routing problems (VRP). [cite_start]This solution utilizes a convex-relaxed Alternating Direction Method of Multipliers (ADMM) algorithm with Pareto-optimized allocations. [cite: 10] [cite_start]By deploying <b>Edge AI inference agents</b> on Kubernetes, the system reduces orchestration latency by <b>30%</b> while securing APIs cryptographically. [cite: 10]
+</p>
+<p align="center">
+  <b>Tech Stack:</b><br/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</p>
+<p align="center">
+  <a href="https://github.com/St4bl3/supply_chain_logistics_using_ADMM_VRP"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+</td>
+
+<td width="50%" valign="top">
+<h3 align="center">Spatio-Temporal Activity Recognition</h3>
+<p align="center">
+  <a href="https://github.com/St4bl3/Spatio-Temporal-Activity-Recognition"><img src="https://github.com/user-attachments/assets/941e3d3b-01d0-4966-8968-3e4210a4fa28" alt="Activity Recognition Project" width="90%"/></a>
+</p>
+<p align="justify">
+[cite_start]A real-time video classification pipeline engineered to capture complex temporal dynamics using a hybrid architecture of <b>ResNet-18, Bidirectional LSTMs, and Multi-Head Self-Attention (MHSA) Transformer Encoders</b>. [cite: 10] [cite_start]Through optimized preprocessing and inference strategies, this model achieved a <b>12% F1 score improvement</b> on class-imbalanced video benchmarks. [cite: 10]
+</p>
+<p align="center">
+  <b>Tech Stack:</b><br/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/TorchVision-D63B1F?style=for-the-badge&logo=pytorch&logoColor=white" alt="TorchVision"/>
+</p>
+<p align="center">
+  <a href="https://github.com/St4bl3/Spatio-Temporal-Activity-Recognition"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+</td>
+
+</tr>
+</table>
 </div>
 
 ---
 
-## 🛠️ Tech Stack
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><strong>Languages</strong><br/>
-        <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css" alt="Languages" />
-      </td>
-      <td align="center"><strong>Web & Backend</strong><br/>
-        <img src="https://skillicons.dev/icons?i=nextjs,nodejs,flask,prisma,rest" alt="Web & Backend" />
-      </td>
-      <td align="center"><strong>AI & ML</strong><br/>
-        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastai" alt="AI & ML" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Databases</strong><br/>
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases" />
-      </td>
-      <td align="center"><strong>DevOps & Cloud</strong><br/>
-        <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vercel,aws,gcp" alt="DevOps & Cloud" />
-      </td>
-       <td align="center"><strong>Distributed Systems</strong><br/>
-        <img src="https://skillicons.dev/icons?i=hadoop,spark" alt="Other Tools" />
-      </td>
-    </tr>
-  </table>
-</div>
+## 🛠️ Technical Skills
+
+<table>
+  <tr>
+    <td align="center"><strong>Generative AI & NLP</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface,transformers" /><br/><sub>LLMs, Fine-Tuning, RAG, Prompt Engineering, Autonomous Agents</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>MLOps & Distributed Systems</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,spark,hadoop" /><br/><sub>CI/CD Pipelines, EC2, Lambda, EKS, HDFS</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Web3 & Blockchain</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=solidity,ethers,web3js" /><br/><sub>Smart Contracts, DApps, P2P Energy Exchange, Post-Quantum Cryptography</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Languages & Development</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=python,java,c,js,ts,nextjs,nodejs,flask,prisma" /><br/><sub></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Databases & Tools</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,vscode" /><br/><sub></sub></td>
+  </tr>
+</table>
+
+---
+
+## 📜 Publications & Certifications
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Publications</h3>
+      <ul>
+        [cite_start]<li><b>Watt Wallet: Decentralized Blockchain Marketplace for Renewable Energy Credits with AI-Powered Forecasting</b> (2025) [cite: 10]</li>
+        [cite_start]<li><b>A Smart Pill Container For Improved Medication Using Deep Learning</b> (ICESC 2024) [cite: 10]</li>
+        [cite_start]<li><b>Supply Chain Logistics, Hybrid Optimization Using ADMM and VRP</b> (ICICEC 2024) [cite: 10]</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Certifications</h3>
+      <ul>
+        [cite_start]<li><b>IBM:</b> Intro to Web Dev with HTML/CSS/JS, Intro to Cloud Computing, Git & GitHub [cite: 11]</li>
+        [cite_start]<li><b>MATLAB:</b> Deep Learning Onramp, Computer Vision Onramp, Image Processing Onramp [cite: 12]</li>
+        [cite_start]<li><b>AWS:</b> AWS Academy Graduate - Intro to Cloud Semester 1 [cite: 13]</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=St4bl3&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=St4bl3&theme=dracula&column=4&rank=-UNKNOWN,-C" alt="Filtered Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=St4bl3&show_icons=true&theme=dracula&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=St4bl3&theme=dracula&column=4&rank=-UNKNOWN,-C" alt="GitHub Trophies" />
 </div>
 
 ---
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/dhanush2004work" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://x.com/DhanushD230718" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
-  <a href="mailto:dhanush2004.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" alt="Gmail" /></a>
-  <a href="https://github.com/St4bl3" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/dhanush2004work" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/DhanushD230718" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="mailto:dhanush2004.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/St4bl3" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
@@ -140,4 +240,4 @@
 
 ---
 
-<p align="center">Made by <strong>Dhanush D</strong> | © 2025</p>
+<p align="center">© 2025 Dhanush D</p>
