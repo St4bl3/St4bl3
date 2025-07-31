@@ -197,13 +197,12 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
     <td>
       <img src="https://cdn.simpleicons.org/python/3776AB" height="42" alt="Python">&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/java/FFFFFF" height="42" alt="Java">&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/go/00ADD8" height="42" alt="Go">&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/c/A8B9CC" height="42" alt="C">&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="42" alt="JavaScript">&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/typescript/3178C6" height="42" alt="TypeScript">&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="42" alt="Next.js">&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="42" alt="Node.js">&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/flask/000000" height="42" alt="Flask">
+      <br>
+      Python, Java, TypeScript, Next.js, Flask
     </td>
   </tr>
   <tr>
@@ -214,6 +213,8 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
       <img src="https://cdn.simpleicons.org/mongodb/47A248" height="42" alt="MongoDB">&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/git/F05032" height="42" alt="Git">&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/github/181717" height="42" alt="GitHub">
+      <br>
+      PostgreSQL, MySQL, MongoDB, Git, Github
     </td>
   </tr>
 </table>
