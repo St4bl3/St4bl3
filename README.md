@@ -160,72 +160,65 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
 
 ## 🛠️ Technical Skills
 <table>
-
   <tr>
-    <td align="center"><strong>Generative&nbsp;AI&nbsp;&amp;&nbsp;NLP</strong></td>
+    <td align="center"><strong>Generative AI &amp; NLP</strong></td>
     <td>
-      <img src="https://cdn.simpleicons.org/pytorch/EE4C2C"        height="42" alt="PyTorch">
-      <img src="https://cdn.simpleicons.org/tensorflow/FF6F00"      height="42" alt="TensorFlow">
-      <img src="https://cdn.simpleicons.org/huggingface/FFB81E"     height="42" alt="Hugging Face">
+      <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="42" alt="PyTorch">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="42" alt="TensorFlow">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/huggingface/FFB81E" height="42" alt="Hugging Face">
       <br>
-      <sub>LLMs, Fine-Tuning, RAG, Prompt Engineering, Autonomous Agents</sub>
+      LLMs, Fine-Tuning, RAG, Prompt Engineering, Autonomous Agents
     </td>
   </tr>
-
   <tr>
-    <td align="center"><strong>MLOps&nbsp;&amp;&nbsp;Distributed&nbsp;Systems</strong></td>
+    <td align="center"><strong>MLOps &amp; Distributed Systems</strong></td>
     <td>
-      <img src="https://cdn.simpleicons.org/docker/2496ED"          height="42" alt="Docker">
-      <img src="https://cdn.simpleicons.org/kubernetes/326CE5"      height="42" alt="Kubernetes">
-      <img src="https://cdn.simpleicons.org/amazonaws/232F3E"       height="42" alt="AWS">
-      <img src="https://cdn.simpleicons.org/googlecloud/4285F4"     height="42" alt="GCP">
-      <img src="https://cdn.simpleicons.org/apachespark/E25A1C"     height="42" alt="Apache Spark">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg"
-           height="42" alt="Apache Hadoop">
+      <img src="https://cdn.simpleicons.org/docker/2496ED" height="42" alt="Docker">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="42" alt="Kubernetes">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="42" alt="GCP">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="42" alt="Apache Spark">&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="42" alt="Apache Hadoop">
       <br>
-      <sub>CI/CD&nbsp;Pipelines, EC2, Lambda, EKS, HDFS</sub>
+      CI/CD Pipelines, EC2, Lambda, EKS, HDFS
     </td>
   </tr>
-
   <tr>
-    <td align="center"><strong>Web3&nbsp;&amp;&nbsp;Blockchain</strong></td>
+    <td align="center"><strong>Web3 &amp; Blockchain</strong></td>
     <td>
-      <img src="https://cdn.simpleicons.org/solidity/FFFFFF"        height="42" alt="Solidity">
-      <img src="https://cdn.simpleicons.org/ethers/FFFFFF"          height="42" alt="Ethers.js">
-      <img src="https://cdn.simpleicons.org/web3dotjs/F29D45"       height="42" alt="Web3.js">
+      <img src="https://cdn.simpleicons.org/solidity/FFFFFF" height="42" alt="Solidity">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/ethers/FFFFFF" height="42" alt="Ethers.js">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/web3dotjs/F29D45" height="42" alt="Web3.js">
       <br>
-      <sub>Smart Contracts, DApps, P2P Energy Exchange, Post-Quantum Crypto</sub>
+      Smart Contracts, DApps, P2P Energy Exchange, Post-Quantum Crypto
     </td>
   </tr>
-
   <tr>
-    <td align="center"><strong>Languages&nbsp;&amp;&nbsp;Development</strong></td>
+    <td align="center"><strong>Languages &amp; Development</strong></td>
     <td>
-      <img src="https://cdn.simpleicons.org/python/3776AB"          height="42" alt="Python">
-      <img src="https://cdn.simpleicons.org/java/FFFFFF"            height="42" alt="Java">
-      <img src="https://cdn.simpleicons.org/go/00ADD8"              height="42" alt="Go">
-      <img src="https://cdn.simpleicons.org/c/A8B9CC"               height="42" alt="C">
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E"      height="42" alt="JavaScript">
-      <img src="https://cdn.simpleicons.org/typescript/3178C6"      height="42" alt="TypeScript">
-      <img src="https://cdn.simpleicons.org/nextdotjs/000000"       height="42" alt="Next.js">
-      <img src="https://cdn.simpleicons.org/nodedotjs/339933"       height="42" alt="Node.js">
-      <img src="https://cdn.simpleicons.org/flask/000000"           height="42" alt="Flask">
+      <img src="https://cdn.simpleicons.org/python/3776AB" height="42" alt="Python">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/java/FFFFFF" height="42" alt="Java">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/go/00ADD8" height="42" alt="Go">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/c/A8B9CC" height="42" alt="C">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="42" alt="JavaScript">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/typescript/3178C6" height="42" alt="TypeScript">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="42" alt="Next.js">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="42" alt="Node.js">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/flask/000000" height="42" alt="Flask">
     </td>
   </tr>
-
   <tr>
-    <td align="center"><strong>Databases&nbsp;&amp;&nbsp;Tools</strong></td>
+    <td align="center"><strong>Databases &amp; Tools</strong></td>
     <td>
-      <img src="https://cdn.simpleicons.org/postgresql/4169E1"      height="42" alt="PostgreSQL">
-      <img src="https://cdn.simpleicons.org/mysql/4479A1"           height="42" alt="MySQL">
-      <img src="https://cdn.simpleicons.org/mongodb/47A248"         height="42" alt="MongoDB">
-      <img src="https://cdn.simpleicons.org/git/F05032"             height="42" alt="Git">
-      <img src="https://cdn.simpleicons.org/github/181717"          height="42" alt="GitHub">
-      <img src="https://cdn.simpleicons.org/visualstudiocode/FFFFFF"height="42" alt="VS Code">
+      <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="42" alt="PostgreSQL">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/mysql/4479A1" height="42" alt="MySQL">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/mongodb/47A248" height="42" alt="MongoDB">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/git/F05032" height="42" alt="Git">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/github/181717" height="42" alt="GitHub">
     </td>
   </tr>
+</table>
 
-</table>---
+---
 
 ## 📜 Publications & Certifications
 
