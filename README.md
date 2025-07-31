@@ -159,86 +159,82 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
 
 
 ## 🛠️ Technical Skills
-<!-- 🛠️ Technical Skills -->
-<table width="100%" style="table-layout: fixed; border-collapse: collapse;">
+<div style="overflow-x: auto;">
+  <table style="min-width: 800px; width: 100%; border-collapse: collapse;">
+    <tr>
+      <td align="center" style="width: 30%; padding: 8px; border: 1px solid #444;">
+        <strong>Generative&nbsp;AI&nbsp;&amp;&nbsp;NLP</strong>
+      </td>
+      <td style="width: 70%; padding: 8px; border: 1px solid #444; white-space: nowrap;">
+        <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="42" alt="PyTorch">
+        <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="42" alt="TensorFlow">
+        <img src="https://cdn.simpleicons.org/huggingface/FFB81E" height="42" alt="Hugging Face">
+        <img src="https://raw.githubusercontent.com/huggingface/brand/main/transformers/transformers_logo.svg"
+             height="42" alt="Transformers">
+      </td>
+    </tr>
+    <!-- 2. MLOps & Distributed Systems -->
+    <tr>
+      <td align="center" style="width: 30%; padding: 8px; border: 1px solid #444;">
+        <strong>MLOps&nbsp;&amp;&nbsp;Distributed&nbsp;Systems</strong>
+      </td>
+      <td style="width: 70%; padding: 8px; border: 1px solid #444; white-space: nowrap;">
+        <img src="https://cdn.simpleicons.org/docker/2496ED" height="42" alt="Docker">
+        <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="42" alt="Kubernetes">
+        <img src="https://cdn.simpleicons.org/aws/232F3E"         height="42" alt="AWS">
+        <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="42" alt="GCP">
+        <img src="https://cdn.simpleicons.org/apache-spark/E25A1C" height="42" alt="Apache Spark">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg"
+             height="42" alt="Hadoop">
+      </td>
+    </tr>
+    <!-- 3. Web3 & Blockchain -->
+    <tr>
+      <td align="center" style="width: 30%; padding: 8px; border: 1px solid #444;">
+        <strong>Web3&nbsp;&amp;&nbsp;Blockchain</strong>
+      </td>
+      <td style="width: 70%; padding: 8px; border: 1px solid #444; white-space: nowrap;">
+        <img src="https://cdn.simpleicons.org/solidity/363636" height="42" alt="Solidity">
+        <img src="https://cdn.simpleicons.org/ethers/3C3C3D"   height="42" alt="Ethers.js">
+        <img src="https://cdn.simpleicons.org/web3dotjs/FFFFFF" height="42" alt="Web3.js">
+        <img src="https://cdn.simpleicons.org/ethereum/3C3C3D" height="42" alt="Ethereum">
+      </td>
+    </tr>
+    <!-- 4. Languages & Development -->
+    <tr>
+      <td align="center" style="width: 30%; padding: 8px; border: 1px solid #444;">
+        <strong>Languages&nbsp;&amp;&nbsp;Development</strong>
+      </td>
+      <td style="width: 70%; padding: 8px; border: 1px solid #444; white-space: nowrap;">
+        <img src="https://cdn.simpleicons.org/python/3776AB"   height="42" alt="Python">
+        <img src="https://cdn.simpleicons.org/java/007396"     height="42" alt="Java">
+        <img src="https://cdn.simpleicons.org/go/00ADD8"       height="42" alt="Go">
+        <img src="https://cdn.simpleicons.org/c/00599C"        height="42" alt="C">
+        <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="42" alt="JavaScript">
+        <img src="https://cdn.simpleicons.org/typescript/3178C6" height="42" alt="TypeScript">
+        <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="42" alt="Next.js">
+        <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="42" alt="Node.js">
+        <img src="https://cdn.simpleicons.org/flask/000000"    height="42" alt="Flask">
+      </td>
+    </tr>
+    <!-- 5. Databases & Tools -->
+    <tr>
+      <td align="center" style="width: 30%; padding: 8px; border: 1px solid #444;">
+        <strong>Databases&nbsp;&amp;&nbsp;Tools</strong>
+      </td>
+      <td style="width: 70%; padding: 8px; border: 1px solid #444; white-space: nowrap;">
+        <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="42" alt="PostgreSQL">
+        <img src="https://cdn.simpleicons.org/mysql/4479A1"      height="42" alt="MySQL">
+        <img src="https://cdn.simpleicons.org/mongodb/47A248"    height="42" alt="MongoDB">
+        <img src="https://cdn.simpleicons.org/git/F05032"        height="42" alt="Git">
+        <img src="https://cdn.simpleicons.org/github/181717"     height="42" alt="GitHub">
+        <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC"
+             height="42" alt="VS Code">
+      </td>
+    </tr>
 
-  <!-- 1. Generative AI & NLP -->
-  <tr>
-    <td align="center" style="width: 30%; padding: 8px; border: 1px solid #444;">
-      <strong>Generative&nbsp;AI&nbsp;&amp;&nbsp;NLP</strong>
-    </td>
-    <td style="width: 70%; padding: 8px; border: 1px solid #444;">
-      <img src="https://cdn.simpleicons.org/pytorch/EE4C2C"       height="42" alt="PyTorch">
-      <img src="https://cdn.simpleicons.org/tensorflow/FF6F00"     height="42" alt="TensorFlow">
-      <img src="https://cdn.simpleicons.org/huggingface/FFB81E"    height="42" alt="Hugging Face">
-      <img src="https://raw.githubusercontent.com/huggingface/brand/main/transformers/transformers_logo.svg"
-           height="42" alt="Transformers">
-    </td>
-  </tr>
-
-  <!-- 2. MLOps & Distributed Systems -->
-  <tr>
-    <td align="center" style="width: 30%; padding: 8px; border: 1px solid #444;">
-      <strong>MLOps&nbsp;&amp;&nbsp;Distributed&nbsp;Systems</strong>
-    </td>
-    <td style="width: 70%; padding: 8px; border: 1px solid #444;">
-      <img src="https://cdn.simpleicons.org/docker/2496ED"         height="42" alt="Docker">
-      <img src="https://cdn.simpleicons.org/kubernetes/326CE5"     height="42" alt="Kubernetes">
-      <img src="https://cdn.simpleicons.org/aws/232F3E"            height="42" alt="AWS">
-      <img src="https://cdn.simpleicons.org/googlecloud/4285F4"    height="42" alt="GCP">
-      <img src="https://cdn.simpleicons.org/apache-spark/E25A1C"    height="42" alt="Apache Spark">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg"
-           height="42" alt="Hadoop">
-    </td>
-  </tr>
-
-  <!-- 3. Web3 & Blockchain -->
-  <tr>
-    <td align="center" style="width: 30%; padding: 8px; border: 1px solid #444;">
-      <strong>Web3&nbsp;&amp;&nbsp;Blockchain</strong>
-    </td>
-    <td style="width: 70%; padding: 8px; border: 1px solid #444;">
-      <img src="https://cdn.simpleicons.org/solidity/363636"       height="42" alt="Solidity">
-      <img src="https://cdn.simpleicons.org/ethers/3C3C3D"         height="42" alt="Ethers.js">
-      <img src="https://cdn.simpleicons.org/web3dotjs/FFFFFF"      height="42" alt="Web3.js">
-      <img src="https://cdn.simpleicons.org/ethereum/3C3C3D"       height="42" alt="Ethereum">
-    </td>
-  </tr>
-
-  <!-- 4. Languages & Development -->
-  <tr>
-    <td align="center" style="width: 30%; padding: 8px; border: 1px solid #444;">
-      <strong>Languages&nbsp;&amp;&nbsp;Development</strong>
-    </td>
-    <td style="width: 70%; padding: 8px; border: 1px solid #444;">
-      <img src="https://cdn.simpleicons.org/python/3776AB"         height="42" alt="Python">
-      <img src="https://cdn.simpleicons.org/java/007396"           height="42" alt="Java">
-      <img src="https://cdn.simpleicons.org/go/00ADD8"             height="42" alt="Go">
-      <img src="https://cdn.simpleicons.org/c/00599C"              height="42" alt="C">
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E"     height="42" alt="JavaScript">
-      <img src="https://cdn.simpleicons.org/typescript/3178C6"     height="42" alt="TypeScript">
-      <img src="https://cdn.simpleicons.org/nextdotjs/000000"      height="42" alt="Next.js">
-      <img src="https://cdn.simpleicons.org/nodedotjs/339933"      height="42" alt="Node.js">
-      <img src="https://cdn.simpleicons.org/flask/000000"          height="42" alt="Flask">
-    </td>
-  </tr>
-
-  <!-- 5. Databases & Tools -->
-  <tr>
-    <td align="center" style="width: 30%; padding: 8px; border: 1px solid #444;">
-      <strong>Databases&nbsp;&amp;&nbsp;Tools</strong>
-    </td>
-    <td style="width: 70%; padding: 8px; border: 1px solid #444;">
-      <img src="https://cdn.simpleicons.org/postgresql/4169E1"     height="42" alt="PostgreSQL">
-      <img src="https://cdn.simpleicons.org/mysql/4479A1"          height="42" alt="MySQL">
-      <img src="https://cdn.simpleicons.org/mongodb/47A248"        height="42" alt="MongoDB">
-      <img src="https://cdn.simpleicons.org/git/F05032"            height="42" alt="Git">
-      <img src="https://cdn.simpleicons.org/github/181717"         height="42" alt="GitHub">
-      <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="42" alt="VS Code">
-    </td>
-  </tr>
-
-</table>
+  </table>
+</div>
 
 
 ---
