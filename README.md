@@ -171,10 +171,8 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
       <img src="https://cdn.simpleicons.org/tensorflow/FF6F00"     height="42" alt="TensorFlow">
       <img src="https://cdn.simpleicons.org/huggingface/FFB81E"    height="42" alt="Hugging Face">
       <!-- official Transformers logo -->
-      <img src="https://raw.githubusercontent.com/huggingface/brand/master/transformers/transformers_logo.svg"
-           height="42" alt="Transformers">
       <br>
-      <sub>LLMs, Fine-Tuning, RAG, Prompt Engineering, Autonomous Agents</sub>
+      <sub></sub>
     </td>
   </tr>
 
@@ -186,13 +184,11 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
       <img src="https://cdn.simpleicons.org/docker/2496ED"         height="42" alt="Docker">
       <img src="https://cdn.simpleicons.org/kubernetes/326CE5"     height="42" alt="Kubernetes">
       <!-- use the 'aws' alias here -->
-      <img src="https://cdn.simpleicons.org/aws/232F3E"            height="42" alt="AWS">
       <img src="https://cdn.simpleicons.org/googlecloud/4285F4"    height="42" alt="GCP">
-      <img src="https://cdn.simpleicons.org/apache-spark/E25A1C"    height="42" alt="Apache Spark">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg"
            height="42" alt="Hadoop">
       <br>
-      <sub>CI/CD Pipelines, EC2, Lambda, EKS, HDFS</sub>
+      <sub></sub>
     </td>
   </tr>
 
@@ -206,7 +202,7 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
       <img src="https://cdn.simpleicons.org/web3dotjs/FFFFFF"      height="42" alt="Web3.js">
       <img src="https://cdn.simpleicons.org/ethereum/3C3C3D"       height="42" alt="Ethereum">
       <br>
-      <sub>Smart Contracts, DApps, P2P Energy Exchange, Post-Quantum Crypto</sub>
+      <sub></sub>
     </td>
   </tr>
 
@@ -237,9 +233,7 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
       <img src="https://cdn.simpleicons.org/mongodb/47A248"        height="42" alt="MongoDB">
       <img src="https://cdn.simpleicons.org/git/F05032"            height="42" alt="Git">
       <img src="https://cdn.simpleicons.org/github/181717"         height="42" alt="GitHub">
-      <!-- VS Code -->
-      <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC"
-           height="42" alt="VS Code">
+
     </td>
   </tr>
 
