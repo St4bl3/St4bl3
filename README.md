@@ -165,12 +165,11 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
   <tr>
     <td align="center"><strong>Generative&nbsp;AI&nbsp;&amp;&nbsp;NLP</strong></td>
     <td>
-      <img src="https://cdn.simpleicons.org/pytorch/EE4C2C"        height="42" alt="PyTorch">
-      <img src="https://cdn.simpleicons.org/tensorflow/FF6F00"      height="42" alt="TensorFlow">
-      <img src="https://cdn.simpleicons.org/huggingface/FFB81E"     height="42" alt="Hugging Face">
-      <!-- Transformers logo (not in SimpleIcons) -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg"
-           height="42" alt="Transformers">
+      <img src="https://cdn.simpleicons.org/pytorch/EE4C2C"       height="42" alt="PyTorch">
+      <img src="https://cdn.simpleicons.org/tensorflow/FF6F00"     height="42" alt="TensorFlow">
+      <img src="https://cdn.simpleicons.org/huggingface/FFB81E"    height="42" alt="Hugging Face">
+      <!-- reuse the Hugging Face icon for Transformers -->
+      <img src="https://cdn.simpleicons.org/huggingface/FFB81E"    height="42" alt="Transformers">
       <br>
       <sub>LLMs, Fine-Tuning, RAG, Prompt Engineering, Autonomous Agents</sub>
     </td>
@@ -180,16 +179,15 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
   <tr>
     <td align="center"><strong>MLOps&nbsp;&amp;&nbsp;Distributed&nbsp;Systems</strong></td>
     <td>
-      <img src="https://cdn.simpleicons.org/docker/2496ED"          height="42" alt="Docker">
-      <img src="https://cdn.simpleicons.org/kubernetes/326CE5"      height="42" alt="Kubernetes">
-      <img src="https://cdn.simpleicons.org/amazonaws/232F3E"       height="42" alt="AWS">
-      <img src="https://cdn.simpleicons.org/googlecloud/4285F4"     height="42" alt="GCP">
-      <img src="https://cdn.simpleicons.org/apachespark/E25A1C"     height="42" alt="Apache Spark">
-      <!-- Hadoop logo (not in SimpleIcons) -->
+      <img src="https://cdn.simpleicons.org/docker/2496ED"         height="42" alt="Docker">
+      <img src="https://cdn.simpleicons.org/kubernetes/326CE5"     height="42" alt="Kubernetes">
+      <img src="https://cdn.simpleicons.org/amazonaws/232F3E"      height="42" alt="AWS">
+      <img src="https://cdn.simpleicons.org/googlecloud/4285F4"    height="42" alt="GCP">
+      <img src="https://cdn.simpleicons.org/apache-spark/E25A1C"    height="42" alt="Apache Spark">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg"
-           height="42" alt="Apache Hadoop">
+           height="42" alt="Hadoop">
       <br>
-      <sub>CI/CD&nbsp;Pipelines, EC2, Lambda, EKS, HDFS</sub>
+      <sub>CI/CD Pipelines, EC2, Lambda, EKS, HDFS</sub>
     </td>
   </tr>
 
@@ -197,9 +195,9 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
   <tr>
     <td align="center"><strong>Web3&nbsp;&amp;&nbsp;Blockchain</strong></td>
     <td>
-      <img src="https://cdn.simpleicons.org/solidity/363636"        height="42" alt="Solidity">
-      <img src="https://cdn.simpleicons.org/ethers/3C3C3D"          height="42" alt="Ethers.js">
-      <img src="https://cdn.simpleicons.org/web3dotjs/FFFFFF"       height="42" alt="Web3.js">
+      <img src="https://cdn.simpleicons.org/solidity/363636"       height="42" alt="Solidity">
+      <img src="https://cdn.simpleicons.org/ethers/3C3C3D"         height="42" alt="Ethers.js">
+      <img src="https://cdn.simpleicons.org/web3dotjs/FFFFFF"      height="42" alt="Web3.js">
       <br>
       <sub>Smart Contracts, DApps, P2P Energy Exchange, Post-Quantum Crypto</sub>
     </td>
@@ -209,15 +207,15 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
   <tr>
     <td align="center"><strong>Languages&nbsp;&amp;&nbsp;Development</strong></td>
     <td>
-      <img src="https://cdn.simpleicons.org/python/3776AB"          height="42" alt="Python">
-      <img src="https://cdn.simpleicons.org/java/007396"            height="42" alt="Java">
-      <img src="https://cdn.simpleicons.org/go/00ADD8"              height="42" alt="Go">
-      <img src="https://cdn.simpleicons.org/c/00599C"               height="42" alt="C">
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E"      height="42" alt="JavaScript">
-      <img src="https://cdn.simpleicons.org/typescript/3178C6"      height="42" alt="TypeScript">
-      <img src="https://cdn.simpleicons.org/nextdotjs/000000"       height="42" alt="Next.js">
-      <img src="https://cdn.simpleicons.org/nodedotjs/339933"       height="42" alt="Node.js">
-      <img src="https://cdn.simpleicons.org/flask/000000"           height="42" alt="Flask">
+      <img src="https://cdn.simpleicons.org/python/3776AB"         height="42" alt="Python">
+      <img src="https://cdn.simpleicons.org/java/007396"           height="42" alt="Java">
+      <img src="https://cdn.simpleicons.org/go/00ADD8"             height="42" alt="Go">
+      <img src="https://cdn.simpleicons.org/c/00599C"              height="42" alt="C">
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E"     height="42" alt="JavaScript">
+      <img src="https://cdn.simpleicons.org/typescript/3178C6"     height="42" alt="TypeScript">
+      <img src="https://cdn.simpleicons.org/nextdotjs/000000"      height="42" alt="Next.js">
+      <img src="https://cdn.simpleicons.org/nodedotjs/339933"      height="42" alt="Node.js">
+      <img src="https://cdn.simpleicons.org/flask/000000"          height="42" alt="Flask">
     </td>
   </tr>
 
@@ -225,17 +223,16 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
   <tr>
     <td align="center"><strong>Databases&nbsp;&amp;&nbsp;Tools</strong></td>
     <td>
-      <img src="https://cdn.simpleicons.org/postgresql/4169E1"      height="42" alt="PostgreSQL">
-      <img src="https://cdn.simpleicons.org/mysql/4479A1"           height="42" alt="MySQL">
-      <img src="https://cdn.simpleicons.org/mongodb/47A248"         height="42" alt="MongoDB">
-      <img src="https://cdn.simpleicons.org/git/F05032"             height="42" alt="Git">
-      <img src="https://cdn.simpleicons.org/github/181717"          height="42" alt="GitHub">
-      <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC"height="42" alt="VS Code">
+      <img src="https://cdn.simpleicons.org/postgresql/4169E1"     height="42" alt="PostgreSQL">
+      <img src="https://cdn.simpleicons.org/mysql/4479A1"          height="42" alt="MySQL">
+      <img src="https://cdn.simpleicons.org/mongodb/47A248"        height="42" alt="MongoDB">
+      <img src="https://cdn.simpleicons.org/git/F05032"            height="42" alt="Git">
+      <img src="https://cdn.simpleicons.org/github/181717"         height="42" alt="GitHub">
+      <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="42" alt="VS Code">
     </td>
   </tr>
 
 </table>
-
 
 ## 📜 Publications & Certifications
 
