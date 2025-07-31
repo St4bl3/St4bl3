@@ -20,7 +20,7 @@
 ## 👨‍💻 About Me
 
 <p align="justify">
-[cite_start]I am a results-driven Computer Science student (<b>CGPA: 8.19</b>) with a proven track record of developing and deploying sophisticated machine learning models. [cite: 6] [cite_start]My expertise lies in architecting scalable solutions across <b>Deep Learning</b>, <b>Computer Vision</b>, and <b>Generative AI</b>. [cite: 7] I am passionate about tackling complex, real-world challenges by leveraging cutting-edge technology and distributed systems to build robust, efficient, and intelligent applications.
+I am a results-driven Computer Science student (CGPA: 8.19) with a proven track record of developing and deploying sophisticated machine learning models. My expertise lies in architecting scalable solutions across Deep Learning, Computer Vision, and Generative AI. I am passionate about tackling complex, real-world challenges by leveraging cutting-edge technology and distributed systems to build robust, efficient, and intelligent applications.
 </p>
 
 <ul>
