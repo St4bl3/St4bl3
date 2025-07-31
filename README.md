@@ -160,57 +160,50 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
 
 ## 🛠️ Technical Skills
 <!-- 🛠️ Technical Skills -->
-<table>
+<!-- 🛠️ Technical Skills -->
+<table width="100%" style="table-layout: auto; border-collapse: collapse;">
 
   <!-- 1. Generative AI & NLP -->
   <tr>
-    <td align="center"><strong>Generative&nbsp;AI&nbsp;&amp;&nbsp;NLP</strong></td>
-    <td>
-      <!-- PyTorch, TensorFlow, Hugging Face, Transformers -->
+    <td align="center" style="padding: 8px; border: 1px solid #444;"><strong>Generative&nbsp;AI&nbsp;&amp;&nbsp;NLP</strong></td>
+    <td style="padding: 8px; border: 1px solid #444;">
       <img src="https://cdn.simpleicons.org/pytorch/EE4C2C"       height="42" alt="PyTorch">
       <img src="https://cdn.simpleicons.org/tensorflow/FF6F00"     height="42" alt="TensorFlow">
       <img src="https://cdn.simpleicons.org/huggingface/FFB81E"    height="42" alt="Hugging Face">
-      <!-- official Transformers logo -->
-      <br>
-      <sub></sub>
+      <img src="https://raw.githubusercontent.com/huggingface/brand/main/transformers/transformers_logo.svg"
+           height="42" alt="Transformers">
     </td>
   </tr>
 
   <!-- 2. MLOps & Distributed Systems -->
   <tr>
-    <td align="center"><strong>MLOps&nbsp;&amp;&nbsp;Distributed&nbsp;Systems</strong></td>
-    <td>
-      <!-- Docker, Kubernetes, AWS, GCP, Apache Spark, Hadoop -->
+    <td align="center" style="padding: 8px; border: 1px solid #444;"><strong>MLOps&nbsp;&amp;&nbsp;Distributed&nbsp;Systems</strong></td>
+    <td style="padding: 8px; border: 1px solid #444;">
       <img src="https://cdn.simpleicons.org/docker/2496ED"         height="42" alt="Docker">
       <img src="https://cdn.simpleicons.org/kubernetes/326CE5"     height="42" alt="Kubernetes">
-      <!-- use the 'aws' alias here -->
+      <img src="https://cdn.simpleicons.org/aws/232F3E"            height="42" alt="AWS">
       <img src="https://cdn.simpleicons.org/googlecloud/4285F4"    height="42" alt="GCP">
+      <img src="https://cdn.simpleicons.org/apache-spark/E25A1C"    height="42" alt="Apache Spark">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg"
            height="42" alt="Hadoop">
-      <br>
-      <sub></sub>
     </td>
   </tr>
 
   <!-- 3. Web3 & Blockchain -->
   <tr>
-    <td align="center"><strong>Web3&nbsp;&amp;&nbsp;Blockchain</strong></td>
-    <td>
-      <!-- Solidity, Ethers.js, Web3.js, Ethereum -->
+    <td align="center" style="padding: 8px; border: 1px solid #444;"><strong>Web3&nbsp;&amp;&nbsp;Blockchain</strong></td>
+    <td style="padding: 8px; border: 1px solid #444;">
       <img src="https://cdn.simpleicons.org/solidity/363636"       height="42" alt="Solidity">
       <img src="https://cdn.simpleicons.org/ethers/3C3C3D"         height="42" alt="Ethers.js">
       <img src="https://cdn.simpleicons.org/web3dotjs/FFFFFF"      height="42" alt="Web3.js">
       <img src="https://cdn.simpleicons.org/ethereum/3C3C3D"       height="42" alt="Ethereum">
-      <br>
-      <sub></sub>
     </td>
   </tr>
 
   <!-- 4. Languages & Development -->
   <tr>
-    <td align="center"><strong>Languages&nbsp;&amp;&nbsp;Development</strong></td>
-    <td>
-      <!-- Python, Java, Go, C, JavaScript, TypeScript, Next.js, Node.js, Flask -->
+    <td align="center" style="padding: 8px; border: 1px solid #444;"><strong>Languages&nbsp;&amp;&nbsp;Development</strong></td>
+    <td style="padding: 8px; border: 1px solid #444;">
       <img src="https://cdn.simpleicons.org/python/3776AB"         height="42" alt="Python">
       <img src="https://cdn.simpleicons.org/java/007396"           height="42" alt="Java">
       <img src="https://cdn.simpleicons.org/go/00ADD8"             height="42" alt="Go">
@@ -225,15 +218,14 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
 
   <!-- 5. Databases & Tools -->
   <tr>
-    <td align="center"><strong>Databases&nbsp;&amp;&nbsp;Tools</strong></td>
-    <td>
-      <!-- PostgreSQL, MySQL, MongoDB, Git, GitHub, VS Code -->
+    <td align="center" style="padding: 8px; border: 1px solid #444;"><strong>Databases&nbsp;&amp;&nbsp;Tools</strong></td>
+    <td style="padding: 8px; border: 1px solid #444;">
       <img src="https://cdn.simpleicons.org/postgresql/4169E1"     height="42" alt="PostgreSQL">
       <img src="https://cdn.simpleicons.org/mysql/4479A1"          height="42" alt="MySQL">
       <img src="https://cdn.simpleicons.org/mongodb/47A248"        height="42" alt="MongoDB">
       <img src="https://cdn.simpleicons.org/git/F05032"            height="42" alt="Git">
       <img src="https://cdn.simpleicons.org/github/181717"         height="42" alt="GitHub">
-
+      <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="42" alt="VS Code">
     </td>
   </tr>
 
