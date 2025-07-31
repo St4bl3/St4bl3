@@ -154,18 +154,16 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
 </tr>
 </table>
 </div>
-
 <!-- 🛠️ Technical Skills -->
 <table>
   <!-- 1. Generative AI & NLP -->
   <tr>
     <td align="center"><strong>Generative&nbsp;AI&nbsp;&amp;&nbsp;NLP</strong></td>
     <td>
-      <!-- skillicons -->
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-      <!-- devicon fall-backs -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" height="42" alt="Hugging Face"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" height="42" alt="Transformers"/>
+      <img src="https://cdn.techicons.dev/icons/pytorch.svg" height="42" alt="PyTorch"/>
+      <img src="https://cdn.techicons.dev/icons/tensorflow.svg" height="42" alt="TensorFlow"/>
+      <img src="https://cdn.techicons.dev/icons/huggingface.svg" height="42" alt="Hugging Face"/>
+      <img src="https://cdn.techicons.dev/icons/transformers.svg" height="42" alt="Transformers"/>
       <br />
       <sub>LLMs, Fine-Tuning, RAG, Prompt Engineering, Autonomous Agents</sub>
     </td>
@@ -175,9 +173,12 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
   <tr>
     <td align="center"><strong>MLOps&nbsp;&amp;&nbsp;Distributed&nbsp;Systems</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,spark" />
-      <!-- Hadoop (not on skillicons) -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="42" alt="Hadoop"/>
+      <img src="https://cdn.techicons.dev/icons/docker.svg" height="42" alt="Docker"/>
+      <img src="https://cdn.techicons.dev/icons/kubernetes.svg" height="42" alt="Kubernetes"/>
+      <img src="https://cdn.techicons.dev/icons/aws.svg" height="42" alt="AWS"/>
+      <img src="https://cdn.techicons.dev/icons/gcp.svg" height="42" alt="GCP"/>
+      <img src="https://cdn.techicons.dev/icons/spark.svg" height="42" alt="Spark"/>
+      <img src="https://cdn.techicons.dev/icons/hadoop.svg" height="42" alt="Hadoop"/>
       <br />
       <sub>CI/CD, EC2, Lambda, EKS, HDFS</sub>
     </td>
@@ -187,7 +188,9 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
   <tr>
     <td align="center"><strong>Web3&nbsp;&amp;&nbsp;Blockchain</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=solidity,ethers,web3js" />
+      <img src="https://cdn.techicons.dev/icons/solidity.svg" height="42" alt="Solidity"/>
+      <img src="https://cdn.techicons.dev/icons/ethers.svg" height="42" alt="Ethers.js"/>
+      <img src="https://cdn.techicons.dev/icons/web3js.svg" height="42" alt="Web3.js"/>
       <br />
       <sub>Smart Contracts, DApps, P2P Energy Exchange, Post-Quantum Crypto</sub>
     </td>
@@ -197,7 +200,15 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
   <tr>
     <td align="center"><strong>Languages&nbsp;&amp;&nbsp;Development</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python,java,go,c,js,ts,nextjs,nodejs,flask" />
+      <img src="https://cdn.techicons.dev/icons/python.svg" height="42" alt="Python"/>
+      <img src="https://cdn.techicons.dev/icons/java.svg" height="42" alt="Java"/>
+      <img src="https://cdn.techicons.dev/icons/go.svg" height="42" alt="Go"/>
+      <img src="https://cdn.techicons.dev/icons/c.svg" height="42" alt="C"/>
+      <img src="https://cdn.techicons.dev/icons/javascript.svg" height="42" alt="JavaScript"/>
+      <img src="https://cdn.techicons.dev/icons/typescript.svg" height="42" alt="TypeScript"/>
+      <img src="https://cdn.techicons.dev/icons/nextdotjs.svg" height="42" alt="Next.js"/>
+      <img src="https://cdn.techicons.dev/icons/nodejs.svg" height="42" alt="Node.js"/>
+      <img src="https://cdn.techicons.dev/icons/flask.svg" height="42" alt="Flask"/>
     </td>
   </tr>
 
@@ -205,7 +216,12 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
   <tr>
     <td align="center"><strong>Databases&nbsp;&amp;&nbsp;Tools</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,vscode" />
+      <img src="https://cdn.techicons.dev/icons/postgresql.svg" height="42" alt="PostgreSQL"/>
+      <img src="https://cdn.techicons.dev/icons/mysql.svg" height="42" alt="MySQL"/>
+      <img src="https://cdn.techicons.dev/icons/mongodb.svg" height="42" alt="MongoDB"/>
+      <img src="https://cdn.techicons.dev/icons/git.svg" height="42" alt="Git"/>
+      <img src="https://cdn.techicons.dev/icons/github.svg" height="42" alt="GitHub"/>
+      <img src="https://cdn.techicons.dev/icons/vscode.svg" height="42" alt="VS Code"/>
     </td>
   </tr>
 </table>
