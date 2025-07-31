@@ -172,6 +172,7 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg"
            height="42" alt="Transformers">
       <br>
+      <sub>LLMs, Fine-Tuning, RAG, Prompt Engineering, Autonomous Agents</sub>
     </td>
   </tr>
 
@@ -181,12 +182,14 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
     <td>
       <img src="https://cdn.simpleicons.org/docker/2496ED"          height="42" alt="Docker">
       <img src="https://cdn.simpleicons.org/kubernetes/326CE5"      height="42" alt="Kubernetes">
+      <img src="https://cdn.simpleicons.org/amazonaws/232F3E"       height="42" alt="AWS">
       <img src="https://cdn.simpleicons.org/googlecloud/4285F4"     height="42" alt="GCP">
       <img src="https://cdn.simpleicons.org/apachespark/E25A1C"     height="42" alt="Apache Spark">
       <!-- Hadoop logo (not in SimpleIcons) -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg"
            height="42" alt="Apache Hadoop">
       <br>
+      <sub>CI/CD&nbsp;Pipelines, EC2, Lambda, EKS, HDFS</sub>
     </td>
   </tr>
 
@@ -198,6 +201,7 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
       <img src="https://cdn.simpleicons.org/ethers/3C3C3D"          height="42" alt="Ethers.js">
       <img src="https://cdn.simpleicons.org/web3dotjs/FFFFFF"       height="42" alt="Web3.js">
       <br>
+      <sub>Smart Contracts, DApps, P2P Energy Exchange, Post-Quantum Crypto</sub>
     </td>
   </tr>
 
