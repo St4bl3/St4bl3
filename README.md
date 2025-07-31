@@ -92,7 +92,7 @@ An integrated suite for satellite operations featuring a multi-modal MLOps pipel
 <td width="50%" valign="top">
 <h3 align="center">Blockchain Energy Tokenization (WattWallet)</h3>
 <p align="center">
-  <a href="https://github.com/St4bl3/WattWallet"><img src="https://github.com/user-attachments/assets/75968536-1e6a-4d37-af3a-733d9c73b06a" alt="WattWallet Project" width="90%"/></a>
+  <a href="https://github.com/St4bl3/WattWallet"></a>
 </p>
 <p align="justify">
 A P2P, vehicle-to-vehicle energy exchange framework that tokenizes kWh units using smart contracts. This system leverages <b>RNN-driven forecasting</b> for demand-supply prediction and integrates digital wallets with Byzantine-resilient consensus mechanisms. [cite_start]This architecture enables autonomous microgrid formation and boosts energy utilization efficiency by approximately <b>25%</b>. [cite: 10]
