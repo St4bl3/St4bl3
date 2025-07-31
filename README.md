@@ -43,7 +43,7 @@ I am a results-driven Computer Science student (CGPA: 8.19) with a proven track 
       Jun 2025 - Jul 2025
     </td>
     <td valign="top">
-      [cite_start]Developed a multi-modal AI pipeline leveraging a BLIP model for visual analysis and a <b>fine-tuned Mistral-7B LLM</b> with QLoRA for generating nuanced marketing captions. [cite: 10] [cite_start]Implemented a resource-efficient framework using 4-bit quantization and paged optimizers to deploy the 7-billion-parameter model in a constrained computational environment. [cite: 10]
+      Developed a multi-modal AI pipeline leveraging a BLIP model for visual analysis and a fine-tuned Mistral-7B LLM with QLoRA for generating nuanced marketing captions.Implemented a resource-efficient framework using 4-bit quantization and paged optimizers to deploy the 7-billion-parameter model in a constrained computational environment.
     </td>
   </tr>
   <tr>
@@ -54,7 +54,7 @@ I am a results-driven Computer Science student (CGPA: 8.19) with a proven track 
       Jun 2024 - Jul 2024
     </td>
     <td valign="top">
-      [cite_start]Developed and deployed a complete end-to-end Python pipeline to automate the detection of plant diseases from images, achieving <b>95% accuracy</b>. [cite: 10] [cite_start]Gained deep insights into the corporate model development lifecycle, including agile practices, model validation, and rigorous testing protocols. [cite: 10]
+     Developed and deployed a complete end-to-end Python pipeline to automate the detection of plant diseases from images, achieving 95% accuracy. Gained deep insights into the corporate model development lifecycle, including agile practices, model validation, and rigorous testing protocols.
     </td>
   </tr>
 </table>
