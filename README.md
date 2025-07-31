@@ -166,7 +166,8 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
       <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="42" alt="PyTorch">&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="42" alt="TensorFlow">&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/huggingface/FFB81E" height="42" alt="Hugging Face">
-      <br>      
+      <br>
+      LLMs, Fine-Tuning, RAG, Prompt Engineering, Autonomous Agents
     </td>
   </tr>
   <tr>
@@ -178,6 +179,7 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
       <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="42" alt="Apache Spark">&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="42" alt="Apache Hadoop">
       <br>
+      CI/CD Pipelines, EC2, Lambda, EKS, HDFS
     </td>
   </tr>
   <tr>
@@ -187,6 +189,7 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
       <img src="https://cdn.simpleicons.org/ethers/FFFFFF" height="42" alt="Ethers.js">&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/web3dotjs/F29D45" height="42" alt="Web3.js">
       <br>
+      Smart Contracts, DApps, P2P Energy Exchange, Post-Quantum Crypto
     </td>
   </tr>
   <tr>
@@ -214,7 +217,6 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
     </td>
   </tr>
 </table>
-
 ---
 
 ## 📜 Publications & Certifications
