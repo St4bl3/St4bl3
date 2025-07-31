@@ -182,7 +182,7 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
     <td>
       <img src="https://cdn.simpleicons.org/docker/2496ED"          height="42" alt="Docker">
       <img src="https://cdn.simpleicons.org/kubernetes/326CE5"      height="42" alt="Kubernetes">
-      <img src="[https://cdn.simpleicons.org/amazonaws/232F3E](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Ffree%2Faws.html&psig=AOvVaw367cB2Z555KaJ8rJ603kah&ust=1754035432945000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKD0tbTR5o4DFQAAAAAdAAAAABAE)"       height="42" alt="AWS">
+      <img src="![kisspng-cloud-computing-amazon-web-services-amazon-relatio-aws-development-services-in-lithuania-toughlex-5beb2c5dcb8985 4866839915421389738337](https://github.com/user-attachments/assets/15128ea6-c357-4297-937a-6145e0cc1df0)"       height="42" alt="AWS">
       <img src="https://cdn.simpleicons.org/googlecloud/4285F4"     height="42" alt="GCP">
       <img src="https://cdn.simpleicons.org/apachespark/E25A1C"     height="42" alt="Apache Spark">
       <!-- Hadoop logo (not in SimpleIcons) -->
