@@ -155,34 +155,61 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
 </table>
 </div>
 
----
-
-## 🛠️ Technical Skills
-
+<!-- 🛠️ Technical Skills -->
 <table>
+  <!-- 1. Generative AI & NLP -->
   <tr>
-    <td align="center"><strong>Generative AI & NLP</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface,transformers" /><br/><sub>LLMs, Fine-Tuning, RAG, Prompt Engineering, Autonomous Agents</sub></td>
+    <td align="center"><strong>Generative&nbsp;AI&nbsp;&amp;&nbsp;NLP</strong></td>
+    <td>
+      <!-- skillicons -->
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+      <!-- devicon fall-backs -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" height="42" alt="Hugging Face"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" height="42" alt="Transformers"/>
+      <br />
+      <sub>LLMs, Fine-Tuning, RAG, Prompt Engineering, Autonomous Agents</sub>
+    </td>
   </tr>
+
+  <!-- 2. MLOps & Distributed Systems -->
   <tr>
-    <td align="center"><strong>MLOps & Distributed Systems</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,spark,hadoop" /><br/><sub>CI/CD Pipelines, EC2, Lambda, EKS, HDFS</sub></td>
+    <td align="center"><strong>MLOps&nbsp;&amp;&nbsp;Distributed&nbsp;Systems</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,spark" />
+      <!-- Hadoop (not on skillicons) -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="42" alt="Hadoop"/>
+      <br />
+      <sub>CI/CD, EC2, Lambda, EKS, HDFS</sub>
+    </td>
   </tr>
+
+  <!-- 3. Web3 & Blockchain -->
   <tr>
-    <td align="center"><strong>Web3 & Blockchain</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=solidity,ethers,web3js" /><br/><sub>Smart Contracts, DApps, P2P Energy Exchange, Post-Quantum Cryptography</sub></td>
+    <td align="center"><strong>Web3&nbsp;&amp;&nbsp;Blockchain</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=solidity,ethers,web3js" />
+      <br />
+      <sub>Smart Contracts, DApps, P2P Energy Exchange, Post-Quantum Crypto</sub>
+    </td>
   </tr>
+
+  <!-- 4. Languages & Development -->
   <tr>
-    <td align="center"><strong>Languages & Development</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=python,java,c,js,ts,nextjs,nodejs,flask,prisma" /><br/><sub></sub></td>
+    <td align="center"><strong>Languages&nbsp;&amp;&nbsp;Development</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,java,go,c,js,ts,nextjs,nodejs,flask" />
+    </td>
   </tr>
+
+  <!-- 5. Databases & Tools -->
   <tr>
-    <td align="center"><strong>Databases & Tools</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,vscode" /><br/><sub></sub></td>
+    <td align="center"><strong>Databases&nbsp;&amp;&nbsp;Tools</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,vscode" />
+    </td>
   </tr>
 </table>
 
----
 
 ## 📜 Publications & Certifications
 
