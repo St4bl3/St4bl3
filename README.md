@@ -191,17 +191,17 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
     <td width="50%" valign="top">
       <h3>Publications</h3>
       <ul>
-        [cite_start]<li><b>Watt Wallet: Decentralized Blockchain Marketplace for Renewable Energy Credits with AI-Powered Forecasting</b> (2025) [cite: 10]</li>
-        [cite_start]<li><b>A Smart Pill Container For Improved Medication Using Deep Learning</b> (ICESC 2024) [cite: 10]</li>
-        [cite_start]<li><b>Supply Chain Logistics, Hybrid Optimization Using ADMM and VRP</b> (ICICEC 2024) [cite: 10]</li>
+        <li><b>Watt Wallet: Decentralized Blockchain Marketplace for Renewable Energy Credits with AI-Powered Forecasting</b> (2025)</li>
+        <li><b>A Smart Pill Container For Improved Medication Using Deep Learning</b> (ICESC 2024)</li>
+        <li><b>Supply Chain Logistics, Hybrid Optimization Using ADMM and VRP</b> (ICICEC 2024)</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>Certifications</h3>
       <ul>
-        [cite_start]<li><b>IBM:</b> Intro to Web Dev with HTML/CSS/JS, Intro to Cloud Computing, Git & GitHub [cite: 11]</li>
-        [cite_start]<li><b>MATLAB:</b> Deep Learning Onramp, Computer Vision Onramp, Image Processing Onramp [cite: 12]</li>
-        [cite_start]<li><b>AWS:</b> AWS Academy Graduate - Intro to Cloud Semester 1 [cite: 13]</li>
+        <li><b>IBM:</b> Intro to Web Dev with HTML/CSS/JS, Intro to Cloud Computing, Git & GitHub</li>
+        <li><b>MATLAB:</b> Deep Learning Onramp, Computer Vision Onramp, Image Processing Onramp</li>
+        <li><b>AWS:</b> AWS Academy Graduate - Intro to Cloud Semester 1</li>
       </ul>
     </td>
   </tr>
