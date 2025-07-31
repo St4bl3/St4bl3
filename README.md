@@ -71,7 +71,7 @@ I am a results-driven Computer Science student (CGPA: 8.19) with a proven track 
 <td width="50%" valign="top">
 <h3 align="center">COSMOS: Orbital System Management Suite</h3>
 <p align="center">
-  <a href="https://github.com/St4bl3/COSMOS-CV"><img src="<img width="1697" height="950" alt="image" src="https://github.com/user-attachments/assets/cabd511c-afd6-4978-a0ea-4e4587f8c907" />" alt="COSMOS Project" width="90%"/></a>
+  <a href="https://github.com/St4bl3/COSMOS-CV"></a>
 </p>
 <p align="justify">
 An integrated suite for satellite operations featuring a multi-modal MLOps pipeline for weather forecasting (ConvNeXt-S, Swin-B) and space debris detection (Faster R-CNN). [cite_start]It incorporates <b>post-quantum cryptography</b> for secure communications and autonomous <b>NLP agents</b> for mission-critical decision-making. [cite: 10] The system is built on a distributed architecture using Apache Spark and Hadoop for scalable data processing.
@@ -85,7 +85,7 @@ An integrated suite for satellite operations featuring a multi-modal MLOps pipel
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </p>
 <p align="center">
-  <a href="https://github.com/St4bl3/COSMOS-CV"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/St4bl3/COSMOS-CV"></a>
 </p>
 </td>
 
@@ -105,7 +105,7 @@ A P2P, vehicle-to-vehicle energy exchange framework that tokenizes kWh units usi
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 <p align="center">
-  <a href="https://github.com/St4bl3/WattWallet"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/St4bl3/WattWallet"></a>
 </p>
 </td>
 
@@ -115,7 +115,7 @@ A P2P, vehicle-to-vehicle energy exchange framework that tokenizes kWh units usi
 <td width="50%" valign="top">
 <h3 align="center">Cloud-Native ADMM-VRP Optimization</h3>
 <p align="center">
-  <a href="https://github.com/St4bl3/supply_chain_logistics_using_ADMM_VRP"><img src="https://github.com/user-attachments/assets/6eb055c6-5120-410a-8646-991f865de019" alt="ADMM-VRP Project" width="90%"/></a>
+  <a href="https://github.com/St4bl3/supply_chain_logistics_using_ADMM_VRP"></a>
 </p>
 <p align="justify">
 A cloud-native, zero-trust microservices architecture for optimizing vehicle routing problems (VRP). [cite_start]This solution utilizes a convex-relaxed Alternating Direction Method of Multipliers (ADMM) algorithm with Pareto-optimized allocations. [cite: 10] [cite_start]By deploying <b>Edge AI inference agents</b> on Kubernetes, the system reduces orchestration latency by <b>30%</b> while securing APIs cryptographically. [cite: 10]
@@ -128,14 +128,14 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 </p>
 <p align="center">
-  <a href="https://github.com/St4bl3/supply_chain_logistics_using_ADMM_VRP"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/St4bl3/supply_chain_logistics_using_ADMM_VRP"></a>
 </p>
 </td>
 
 <td width="50%" valign="top">
 <h3 align="center">Spatio-Temporal Activity Recognition</h3>
 <p align="center">
-  <a href="https://github.com/St4bl3/Spatio-Temporal-Activity-Recognition"><img src="https://github.com/user-attachments/assets/941e3d3b-01d0-4966-8968-3e4210a4fa28" alt="Activity Recognition Project" width="90%"/></a>
+  <a href="https://github.com/St4bl3/Spatio-Temporal-Activity-Recognition"></a>
 </p>
 <p align="justify">
 [cite_start]A real-time video classification pipeline engineered to capture complex temporal dynamics using a hybrid architecture of <b>ResNet-18, Bidirectional LSTMs, and Multi-Head Self-Attention (MHSA) Transformer Encoders</b>. [cite: 10] [cite_start]Through optimized preprocessing and inference strategies, this model achieved a <b>12% F1 score improvement</b> on class-imbalanced video benchmarks. [cite: 10]
@@ -147,7 +147,7 @@ A cloud-native, zero-trust microservices architecture for optimizing vehicle rou
   <img src="https://img.shields.io/badge/TorchVision-D63B1F?style=for-the-badge&logo=pytorch&logoColor=white" alt="TorchVision"/>
 </p>
 <p align="center">
-  <a href="https://github.com/St4bl3/Spatio-Temporal-Activity-Recognition"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/St4bl3/Spatio-Temporal-Activity-Recognition"></a>
 </p>
 </td>
 
